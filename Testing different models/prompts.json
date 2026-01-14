@@ -1,0 +1,37 @@
+{
+  "negative_prompt": "cgi, render, 3d, illustration, cartoon, overprocessed, oversharpened, plastic texture, waxy surface, unrealistic reflections, deformed, warped, bad geometry, floating objects, text, letters, numbers, watermark, logo, anime, painting, artificial, fake, uncanny",
+  "prompts": [
+    {
+      "id": "car_rain_japan",
+      "prompt": "photorealistic sports car parked on a winding forest road in rural Japan, light rain, wet asphalt reflecting soft light, overcast sky, mist between trees, natural lighting, shot on a full-frame DSLR, 50mm lens, subtle sensor noise, fine film grain, realistic proportions"
+    },
+    {
+      "id": "kitchen_morning",
+      "prompt": "photorealistic modern kitchen interior, morning natural window light, subtle shadows, realistic materials, documentary photo style, 35mm lens, fine film grain"
+    },
+    {
+      "id": "portrait_softlight",
+      "prompt": "photorealistic portrait photo, soft diffused window light, natural skin texture, 85mm lens, shallow depth of field, subtle film grain, realistic color grading"
+    },
+    {
+      "id": "forest_fog",
+      "prompt": "photorealistic foggy forest landscape, early morning mist, wet leaves, natural color grading, high dynamic range, 35mm photo, subtle film grain"
+    },
+    {
+      "id": "product_photo",
+      "prompt": "photorealistic product photo of a wristwatch on a wooden table, soft studio lighting, realistic reflections, sharp focus, subtle film grain"
+    },
+    {
+      "id": "street_night_rain",
+      "prompt": "photorealistic city street at night, light rain, wet pavement reflections, street lights, cinematic but natural color grading, 35mm photo, subtle sensor noise"
+    },
+    {
+      "id": "document_texture",
+      "prompt": "photorealistic close-up of textured paper with ink lines and embossed details, soft side lighting, macro photo, realistic fibers, subtle grain"
+    },
+    {
+      "id": "mountain_lake",
+      "prompt": "photorealistic mountain lake landscape, overcast sky, realistic water reflections, natural colors, 24mm photo, high detail, subtle film grain"
+    }
+  ]
+}

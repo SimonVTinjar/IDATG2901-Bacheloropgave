@@ -1,0 +1,27 @@
+# Core ML framework (CUDA-enabled via pip)
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch>=2.1
+torchvision>=0.16
+torchaudio>=2.1
+
+# Hugging Face diffusion stack
+diffusers>=0.27
+transformers>=4.36
+accelerate>=0.25
+safetensors>=0.4
+huggingface-hub>=0.20
+
+# Image handling
+numpy>=1.24
+pillow>=10.0
+opencv-python>=4.8
+scikit-image>=0.22
+
+# Evaluation / analysis
+scipy>=1.11
+lpips>=0.1.4
+
+# Utilities
+tqdm>=4.66
+matplotlib>=3.8
+pandas>=2.1
