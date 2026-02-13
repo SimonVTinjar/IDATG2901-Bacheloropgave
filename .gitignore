@@ -11,6 +11,11 @@ __pycache__/
 *.jpg
 *.jpeg
 
+# Include these images
+!Datasett/*png
+!Datasett/*jpg
+!Datasett/*jpeg
+
 # Model outputs / experiment artifacts
 smoke_outputs/
 outputs/
@@ -21,4 +26,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-.vit-lora/
+vit-lora-adapter
+vit-lora-inr
