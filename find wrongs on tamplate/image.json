@@ -1,0 +1,82 @@
+{
+  "image": "image.png",
+  "image_path": "I:/Ai prosjekt/IDATG2901-Bacheloropgave/find wrongs on tamplate/image.png",
+  "image_size": {
+    "width": 7200,
+    "height": 2983
+  },
+  "boxes": [
+    {
+      "label": "serial_left",
+      "bbox": [
+        299,
+        650,
+        1952,
+        826
+      ]
+    },
+    {
+      "label": "SIGNATURE_1",
+      "bbox": [
+        309,
+        1962,
+        1425,
+        2138
+      ]
+    },
+    {
+      "label": "SIGNATURE_2",
+      "bbox": [
+        278,
+        2272,
+        1404,
+        2417
+      ]
+    },
+    {
+      "label": "text_1",
+      "bbox": [
+        309,
+        909,
+        609,
+        1084
+      ]
+    },
+    {
+      "label": "serial_right",
+      "bbox": [
+        5030,
+        2055,
+        6673,
+        2241
+      ]
+    },
+    {
+      "label": "Text_2",
+      "bbox": [
+        6838,
+        413,
+        7014,
+        516
+      ]
+    },
+    {
+      "label": "Text_3",
+      "bbox": [
+        1177,
+        351,
+        1590,
+        423
+      ]
+    },
+    {
+      "label": "Series",
+      "bbox": [
+        5154,
+        2530,
+        5402,
+        2644
+      ]
+    }
+  ]
+}

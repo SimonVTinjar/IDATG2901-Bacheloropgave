@@ -1,0 +1,90 @@
+{
+  "image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+  "image_size": {
+    "width": 955,
+    "height": 404
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        41,
+        81,
+        261,
+        115
+      ],
+      "value": "LB54323655S"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        661,
+        271,
+        881,
+        300
+      ],
+      "value": "LB54320606S"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        46,
+        122,
+        87,
+        154
+      ],
+      "value": "B2"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        153,
+        46,
+        210,
+        61
+      ],
+      "value": "FW H 598"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        894,
+        53,
+        919,
+        73
+      ],
+      "value": "H4"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        667,
+        332,
+        704,
+        351
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        46,
+        256,
+        191,
+        282
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        38,
+        297,
+        187,
+        320
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "image": "2013-100-dollar-frn-lead.tmb-slide-1900.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\2013-100-dollar-frn-lead.tmb-slide-1900.jpg",
+  "image_size": {
+    "width": 580,
+    "height": 238
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        18,
+        42,
+        155,
+        64
+      ],
+      "value": "MB44713229A"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        400,
+        158,
+        537,
+        179
+      ],
+      "value": "MB44713229A"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        17,
+        65,
+        48,
+        86
+      ],
+      "value": "B2"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        89,
+        19,
+        119,
+        31
+      ],
+      "value": "FW H 29"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        543,
+        24,
+        561,
+        39
+      ],
+      "value": "H6"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        407,
+        194,
+        430,
+        208
+      ],
+      "value": "2013"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        18,
+        147,
+        107,
+        172
+      ],
+      "value": "Jacob J. Lew"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        17,
+        175,
+        112,
+        191
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

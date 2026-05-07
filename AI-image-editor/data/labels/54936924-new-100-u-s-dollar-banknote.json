@@ -1,0 +1,90 @@
+{
+  "image": "54936924-new-100-u-s-dollar-banknote.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\54936924-new-100-u-s-dollar-banknote.jpg",
+  "image_size": {
+    "width": 710,
+    "height": 308
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        32,
+        61,
+        198,
+        89
+      ],
+      "value": "LB01961667F"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        493,
+        207,
+        656,
+        236
+      ],
+      "value": "LB 01961667F"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        30,
+        86,
+        66,
+        111
+      ],
+      "value": "B2"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        117,
+        28,
+        162,
+        44
+      ],
+      "value": "FW D 145"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        669,
+        46,
+        690,
+        63
+      ],
+      "value": "D3"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        501,
+        251,
+        528,
+        268
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        33,
+        188,
+        145,
+        214
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        27,
+        217,
+        141,
+        239
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

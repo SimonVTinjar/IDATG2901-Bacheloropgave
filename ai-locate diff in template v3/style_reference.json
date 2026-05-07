@@ -1,0 +1,101 @@
+{
+  "image": "image.png",
+  "fields": [
+    {
+      "label": "top_left_code",
+      "bbox": [
+        1139,
+        315,
+        1638,
+        450
+      ],
+      "color": "#363f3c",
+      "font_size": 148,
+      "align": "center"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        6828,
+        388,
+        7019,
+        538
+      ],
+      "color": "#2d4039",
+      "font_size": 133,
+      "align": "center"
+    },
+    {
+      "label": "serial",
+      "bbox": [
+        274,
+        582,
+        1988,
+        911
+      ],
+      "color": "#3b6d51",
+      "font_size": 373,
+      "align": "center"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        261,
+        883,
+        675,
+        1107
+      ],
+      "color": "#33433a",
+      "font_size": 235,
+      "align": "center"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        319,
+        1931,
+        1496,
+        2171
+      ],
+      "color": "#2b3831",
+      "font_size": 334,
+      "align": "center"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        5035,
+        2046,
+        6661,
+        2260
+      ],
+      "color": "#3d7351",
+      "font_size": 298,
+      "align": "center"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        237,
+        2236,
+        1396,
+        2436
+      ],
+      "color": "#27332b",
+      "font_size": 278,
+      "align": "center"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        5154,
+        2459,
+        5424,
+        2668
+      ],
+      "color": "#303c31",
+      "font_size": 291,
+      "align": "center"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "image": "s-l16002_2.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\s-l16002_2.jpg",
+  "image_size": {
+    "width": 1382,
+    "height": 586
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        50,
+        115,
+        367,
+        165
+      ],
+      "value": "PI 20220711 A"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        953,
+        393,
+        1280,
+        447
+      ],
+      "value": "PI 20220711 A"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        51,
+        172,
+        104,
+        211
+      ],
+      "value": "I9"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        222,
+        63,
+        294,
+        93
+      ],
+      "value": "FW C 125"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        1300,
+        87,
+        1341,
+        115
+      ],
+      "value": "C2"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        49,
+        369,
+        249,
+        408
+      ],
+      "value": "Steven T. Mnuchin"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        39,
+        422,
+        233,
+        464
+      ],
+      "value": "Jovita Carranza"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        974,
+        491,
+        1020,
+        522
+      ],
+      "value": "2017 A"
+    }
+  ]
+}

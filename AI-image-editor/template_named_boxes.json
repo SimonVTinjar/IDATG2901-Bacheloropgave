@@ -1,0 +1,90 @@
+{
+  "image": "Prob Done v2.png",
+  "image_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\AI-image-editor\\Prob Done v2.png",
+  "image_size": {
+    "width": 7200,
+    "height": 2983
+  },
+  "boxes": [
+    {
+      "label": "top_left_code",
+      "bbox": [
+        1139,
+        315,
+        1638,
+        450
+      ],
+      "value": "FW H 598"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        6828,
+        388,
+        7019,
+        538
+      ],
+      "value": "H4"
+    },
+    {
+      "label": "serial",
+      "bbox": [
+        274,
+        582,
+        1988,
+        911
+      ],
+      "value": "LB 54323655 S"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        261,
+        883,
+        675,
+        1107
+      ],
+      "value": "B2"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        319,
+        1931,
+        1496,
+        2171
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        5035,
+        2046,
+        6661,
+        2260
+      ],
+      "value": "LB 54323655 S"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        237,
+        2236,
+        1396,
+        2436
+      ],
+      "value": "Rosa Gumataotao Rios"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        5154,
+        2459,
+        5424,
+        2668
+      ],
+      "value": "2009"
+    }
+  ]
+}

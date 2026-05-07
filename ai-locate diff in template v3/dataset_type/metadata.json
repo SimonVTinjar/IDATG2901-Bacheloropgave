@@ -1,0 +1,674 @@
+[
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_left_code\\crop_0001_1_top_left_code.png",
+    "label": "top_left_code",
+    "bbox": [
+      1139,
+      315,
+      1638,
+      450
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_left_code\\crop_0001_2_top_left_code.png",
+    "label": "top_left_code",
+    "bbox": [
+      1139,
+      315,
+      1638,
+      450
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_left_code\\crop_0001_3_top_left_code.png",
+    "label": "top_left_code",
+    "bbox": [
+      1139,
+      315,
+      1638,
+      450
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_right_code\\crop_0002_1_top_right_code.png",
+    "label": "top_right_code",
+    "bbox": [
+      6828,
+      388,
+      7019,
+      538
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_right_code\\crop_0002_2_top_right_code.png",
+    "label": "top_right_code",
+    "bbox": [
+      6828,
+      388,
+      7019,
+      538
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_right_code\\crop_0002_3_top_right_code.png",
+    "label": "top_right_code",
+    "bbox": [
+      6828,
+      388,
+      7019,
+      538
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial\\crop_0003_1_serial.png",
+    "label": "serial",
+    "bbox": [
+      274,
+      582,
+      1988,
+      911
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial\\crop_0003_2_serial.png",
+    "label": "serial",
+    "bbox": [
+      274,
+      582,
+      1988,
+      911
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial\\crop_0003_3_serial.png",
+    "label": "serial",
+    "bbox": [
+      274,
+      582,
+      1988,
+      911
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\code\\crop_0004_1_code.png",
+    "label": "code",
+    "bbox": [
+      261,
+      883,
+      675,
+      1107
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\code\\crop_0004_2_code.png",
+    "label": "code",
+    "bbox": [
+      261,
+      883,
+      675,
+      1107
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\code\\crop_0004_3_code.png",
+    "label": "code",
+    "bbox": [
+      261,
+      883,
+      675,
+      1107
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_1\\crop_0005_1_signature_1.png",
+    "label": "signature_1",
+    "bbox": [
+      319,
+      1931,
+      1496,
+      2171
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_1\\crop_0005_2_signature_1.png",
+    "label": "signature_1",
+    "bbox": [
+      319,
+      1931,
+      1496,
+      2171
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_1\\crop_0005_3_signature_1.png",
+    "label": "signature_1",
+    "bbox": [
+      319,
+      1931,
+      1496,
+      2171
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial_2\\crop_0006_1_serial_2.png",
+    "label": "serial_2",
+    "bbox": [
+      5035,
+      2046,
+      6661,
+      2260
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial_2\\crop_0006_2_serial_2.png",
+    "label": "serial_2",
+    "bbox": [
+      5035,
+      2046,
+      6661,
+      2260
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial_2\\crop_0006_3_serial_2.png",
+    "label": "serial_2",
+    "bbox": [
+      5035,
+      2046,
+      6661,
+      2260
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_2\\crop_0007_1_signature_2.png",
+    "label": "signature_2",
+    "bbox": [
+      237,
+      2236,
+      1396,
+      2436
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_2\\crop_0007_2_signature_2.png",
+    "label": "signature_2",
+    "bbox": [
+      237,
+      2236,
+      1396,
+      2436
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_2\\crop_0007_3_signature_2.png",
+    "label": "signature_2",
+    "bbox": [
+      237,
+      2236,
+      1396,
+      2436
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\series\\crop_0008_1_series.png",
+    "label": "series",
+    "bbox": [
+      5154,
+      2459,
+      5424,
+      2668
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\series\\crop_0008_2_series.png",
+    "label": "series",
+    "bbox": [
+      5154,
+      2459,
+      5424,
+      2668
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\series\\crop_0008_3_series.png",
+    "label": "series",
+    "bbox": [
+      5154,
+      2459,
+      5424,
+      2668
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_left_code\\crop_0001_1_top_left_code.png",
+    "label": "top_left_code",
+    "bbox": [
+      1139,
+      315,
+      1638,
+      450
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_left_code\\crop_0001_2_top_left_code.png",
+    "label": "top_left_code",
+    "bbox": [
+      1139,
+      315,
+      1638,
+      450
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_left_code\\crop_0001_3_top_left_code.png",
+    "label": "top_left_code",
+    "bbox": [
+      1139,
+      315,
+      1638,
+      450
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_right_code\\crop_0002_1_top_right_code.png",
+    "label": "top_right_code",
+    "bbox": [
+      6828,
+      388,
+      7019,
+      538
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_right_code\\crop_0002_2_top_right_code.png",
+    "label": "top_right_code",
+    "bbox": [
+      6828,
+      388,
+      7019,
+      538
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\top_right_code\\crop_0002_3_top_right_code.png",
+    "label": "top_right_code",
+    "bbox": [
+      6828,
+      388,
+      7019,
+      538
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial\\crop_0003_1_serial.png",
+    "label": "serial",
+    "bbox": [
+      274,
+      582,
+      1988,
+      911
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial\\crop_0003_2_serial.png",
+    "label": "serial",
+    "bbox": [
+      274,
+      582,
+      1988,
+      911
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial\\crop_0003_3_serial.png",
+    "label": "serial",
+    "bbox": [
+      274,
+      582,
+      1988,
+      911
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\code\\crop_0004_1_code.png",
+    "label": "code",
+    "bbox": [
+      261,
+      883,
+      675,
+      1107
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\code\\crop_0004_2_code.png",
+    "label": "code",
+    "bbox": [
+      261,
+      883,
+      675,
+      1107
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\code\\crop_0004_3_code.png",
+    "label": "code",
+    "bbox": [
+      261,
+      883,
+      675,
+      1107
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_1\\crop_0005_1_signature_1.png",
+    "label": "signature_1",
+    "bbox": [
+      319,
+      1931,
+      1496,
+      2171
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_1\\crop_0005_2_signature_1.png",
+    "label": "signature_1",
+    "bbox": [
+      319,
+      1931,
+      1496,
+      2171
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_1\\crop_0005_3_signature_1.png",
+    "label": "signature_1",
+    "bbox": [
+      319,
+      1931,
+      1496,
+      2171
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial_2\\crop_0006_1_serial_2.png",
+    "label": "serial_2",
+    "bbox": [
+      5035,
+      2046,
+      6661,
+      2260
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial_2\\crop_0006_2_serial_2.png",
+    "label": "serial_2",
+    "bbox": [
+      5035,
+      2046,
+      6661,
+      2260
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\serial_2\\crop_0006_3_serial_2.png",
+    "label": "serial_2",
+    "bbox": [
+      5035,
+      2046,
+      6661,
+      2260
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_2\\crop_0007_1_signature_2.png",
+    "label": "signature_2",
+    "bbox": [
+      237,
+      2236,
+      1396,
+      2436
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_2\\crop_0007_2_signature_2.png",
+    "label": "signature_2",
+    "bbox": [
+      237,
+      2236,
+      1396,
+      2436
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\signature_2\\crop_0007_3_signature_2.png",
+    "label": "signature_2",
+    "bbox": [
+      237,
+      2236,
+      1396,
+      2436
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\series\\crop_0008_1_series.png",
+    "label": "series",
+    "bbox": [
+      5154,
+      2459,
+      5424,
+      2668
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\series\\crop_0008_2_series.png",
+    "label": "series",
+    "bbox": [
+      5154,
+      2459,
+      5424,
+      2668
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  },
+  {
+    "crop_path": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\dataset_type\\series\\crop_0008_3_series.png",
+    "label": "series",
+    "bbox": [
+      5154,
+      2459,
+      5424,
+      2668
+    ],
+    "image_size": [
+      7200,
+      2983
+    ]
+  }
+]
