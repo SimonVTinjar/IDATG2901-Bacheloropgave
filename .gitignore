@@ -2,6 +2,12 @@
 .venv/
 venv/
 
+
+#div
+.zip
+*.bak_before_path_fix
+*.bak_before_path_fix_v2
+
 # Python cache
 __pycache__/
 *.pyc
