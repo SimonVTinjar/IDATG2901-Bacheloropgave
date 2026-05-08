@@ -16,8 +16,8 @@ import json
 
 BASE_DIR = Path(__file__).parent
 
-ORIGINAL_PATH = BASE_DIR / "image.png"
-TEMPLATE_PATH = BASE_DIR / "Prob Done v2.png"
+ORIGINAL_PATH = BASE_DIR.parent / "image.png"
+TEMPLATE_PATH = BASE_DIR.parent / "Prob Done v2.png"
 
 MODEL_PATH = BASE_DIR.parent / "models" / "classifiers" / "box_type_position_missing_classifier_v3.pth"
 

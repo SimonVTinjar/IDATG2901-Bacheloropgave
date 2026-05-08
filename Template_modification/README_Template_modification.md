@@ -39,8 +39,7 @@ Template_modification/
 ├── 04_ai_locate_fields/
 ├── 05_ai_image_editor_final/
 ├── models/
-├── outputs/
-└── docs/
+└── outputs/
 ```
 
 ---
@@ -307,50 +306,6 @@ outputs/yolo_runs_archive/runs/
 
 ---
 
-## Viktige merknader etter opprydding
-
-Etter oppryddingen ble flere filer og mapper renamet. Derfor er mange paths oppdatert til å bruke `Path(__file__).resolve().parent`.
-
-Eksempel:
-
-```python
-BASE_DIR = Path(__file__).resolve().parent
-MODEL_PATH = BASE_DIR.parent / "models" / "classifiers" / "box_classifier_v3.pth"
-```
-
-Dette gjør at scriptet finner filer relativt til sin egen plassering, ikke relativt til hvor terminalen kjøres fra.
-
----
-
-## Git og backup-filer
-
-Path-fix-scriptet lager backupfiler som slutter på:
-
-```text
-.bak_before_path_fix
-.bak_before_path_fix_v2
-```
-
-Disse bør ikke pushes til Git.
-
-Legg dette i `.gitignore`:
-
-```gitignore
-*.bak_before_path_fix
-*.bak_before_path_fix_v2
-```
-
-Det kan også være lurt å ignorere store outputmapper:
-
-```gitignore
-Template_modification/outputs/yolo_runs_archive/
-Template_modification/outputs/debug_outputs/
-```
-
-Vurder også om store modellfiler skal pushes eller lagres separat.
-
----
-
 ## Anbefalt kjørerekkefølge
 
 En mulig arbeidsflyt er:
@@ -387,15 +342,3 @@ De viktigste utfordringene var:
 - visuell inkonsistens mellom generert innhold og template
 
 ---
-
-## Videre arbeid
-
-Mulige forbedringer:
-
-- bedre og mer representativt datasett
-- mer robust deteksjon av felt
-- bedre filtrering av støy
-- forbedret klassifikasjon av felttyper
-- mer kontrollert tekst-rendering
-- AI brukt mer til visuell integrering enn til å generere tekst fritt
-- bedre evaluering av lesbarhet og visuell kvalitet

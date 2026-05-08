@@ -9,21 +9,6 @@ import json
 
 BASE_DIR = Path(__file__).parent
 
-# Bruk dette formatet:
-#
-# data/
-#   originals/
-#     abc.jpg
-#   templates/
-#     abc.png
-#   annotations/
-#     abc.json
-#
-# JSON bruker samme format som eksempelet ditt:
-# {
-#   "image_size": {"width": ..., "height": ...},
-#   "boxes": [{"label": "...", "bbox": [x1,y1,x2,y2]}]
-# }
 
 DATA_DIR = BASE_DIR / "data"
 ORIGINAL_DIR = DATA_DIR / "images"
@@ -42,9 +27,6 @@ CROP_MARGIN = 40
 MASK_PADDING = 4
 
 
-# -------------------------------------------------
-# HJELPEFUNKSJONER
-# -------------------------------------------------
 
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:

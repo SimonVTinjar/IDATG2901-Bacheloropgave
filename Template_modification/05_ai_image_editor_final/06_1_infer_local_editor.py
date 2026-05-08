@@ -12,7 +12,7 @@ from torchvision import transforms
 
 BASE_DIR = Path(__file__).parent
 
-TEMPLATE_PATH = BASE_DIR / "Prob Done v2.png"
+TEMPLATE_PATH = BASE_DIR.parent / "Prob Done v2.png"
 JSON_PATH = BASE_DIR / "template_named_boxes.json"
 MODEL_PATH = BASE_DIR.parent / "models" / "editors" / "local_box_editor_unet.pth"
 

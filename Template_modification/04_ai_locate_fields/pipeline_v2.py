@@ -10,8 +10,8 @@ import string
 
 BASE_DIR = Path(__file__).parent
 
-ORIGINAL_PATH = "image.png"
-TEMPLATE_PATH = "Prob Done v2.png"
+ORIGINAL_PATH = BASE_DIR.parent / "image.png"
+TEMPLATE_PATH = BASE_DIR.parent / "Prob Done v2.png"
 MODEL_PATH = BASE_DIR.parent / "models" / "classifiers" / "box_type_classifier_v3.pth"
 OUTPUT_PATH = BASE_DIR / "final_outputv2-1.png"
 FONT_PATH = BASE_DIR / "arial.ttf"

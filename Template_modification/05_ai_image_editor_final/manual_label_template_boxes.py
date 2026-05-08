@@ -11,8 +11,8 @@ import numpy as np
 
 BASE_DIR = Path(__file__).parent
 
-ORIGINAL_PATH = BASE_DIR / "image.png"
-TEMPLATE_PATH = BASE_DIR / "Prob Done v2.png"
+ORIGINAL_PATH = BASE_DIR.parent / "image.png"
+TEMPLATE_PATH = BASE_DIR.parent / "Prob Done v2.png"
 
 OUTPUT_JSON = BASE_DIR / "template_named_boxes.json"
 OUTPUT_PREVIEW = BASE_DIR / "template_numbered_preview.png"

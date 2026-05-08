@@ -5,7 +5,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent
 
 IMAGE_PATH = BASE_DIR.parent / "Prob Done v2.png"
-OUTPUT_PATH = BASE_DIR.parent / "final_output.png"
+OUTPUT_PATH = BASE_DIR / "final_output.png"
 
 # Eksempelbokser (fra AI)
 missing_boxes = [

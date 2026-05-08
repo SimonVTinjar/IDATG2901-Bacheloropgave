@@ -17,7 +17,7 @@ print(f"Bruker YOLO-modell: {MODEL_PATH}")
 
 model = YOLO(str(MODEL_PATH))
 
-TEST_IMAGE = BASE_DIR.parent / "Prob Done v2.png"
+TEST_IMAGE = BASE_DIR.parent / "image.png"
 
 if not TEST_IMAGE.exists():
     raise FileNotFoundError(f"Fant ikke testbildet: {TEST_IMAGE}")

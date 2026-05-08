@@ -11,7 +11,7 @@ from diffusers import StableDiffusionInpaintPipeline
 
 BASE_DIR = Path(__file__).parent
 
-TEMPLATE_PATH = BASE_DIR / "Prob Done v2.png"
+TEMPLATE_PATH = BASE_DIR.parent / "Prob Done v2.png"
 JSON_PATH = BASE_DIR / "template_named_boxes.json"
 
 OUTPUT_PATH = BASE_DIR / "ai_edited_output_per_box.png"
