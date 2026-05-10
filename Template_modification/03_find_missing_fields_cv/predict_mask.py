@@ -11,7 +11,7 @@ from torchvision import transforms
 BASE_DIR = Path(__file__).parent
 MODEL_PATH = BASE_DIR.parent / "models" / "editors" / "unet_error_detector.pth"
 
-INPUT_IMAGE = BASE_DIR / "test.png"
+INPUT_IMAGE = BASE_DIR / "template.png"
 OUTPUT_MASK = BASE_DIR / "predicted_mask.png"
 OUTPUT_BOX = BASE_DIR / "predicted_box.png"
 
