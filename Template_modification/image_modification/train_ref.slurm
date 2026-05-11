@@ -48,6 +48,6 @@ EOF
 # START TRENING
 # -----------------------------
 
-python 05_2_train_reference_editor.py
+python 04_train_reference_editor.py
 
 echo "Jobb ferdig"
