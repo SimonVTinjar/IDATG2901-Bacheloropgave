@@ -1,0 +1,556 @@
+{
+  "boxes": [
+    {
+      "id": 1,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_001.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_001.png",
+      "bbox": [
+        1323,
+        336,
+        1417,
+        432
+      ],
+      "area": 5054
+    },
+    {
+      "id": 2,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_002.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_002.png",
+      "bbox": [
+        1178,
+        354,
+        1297,
+        421
+      ],
+      "area": 4760
+    },
+    {
+      "id": 3,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_003.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_003.png",
+      "bbox": [
+        1452,
+        361,
+        1557,
+        431
+      ],
+      "area": 3762
+    },
+    {
+      "id": 4,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_004.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_004.png",
+      "bbox": [
+        1564,
+        404,
+        1582,
+        421
+      ],
+      "area": 306
+    },
+    {
+      "id": 5,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_005.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_005.png",
+      "bbox": [
+        6855,
+        411,
+        7001,
+        498
+      ],
+      "area": 6887
+    },
+    {
+      "id": 6,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_006.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_006.png",
+      "bbox": [
+        651,
+        615,
+        668,
+        631
+      ],
+      "area": 271
+    },
+    {
+      "id": 7,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_007.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_007.png",
+      "bbox": [
+        649,
+        617,
+        754,
+        816
+      ],
+      "area": 12043
+    },
+    {
+      "id": 8,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_008.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_008.png",
+      "bbox": [
+        791,
+        632,
+        897,
+        818
+      ],
+      "area": 11362
+    },
+    {
+      "id": 9,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_009.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_009.png",
+      "bbox": [
+        1211,
+        636,
+        1322,
+        823
+      ],
+      "area": 9929
+    },
+    {
+      "id": 10,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_010.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_010.png",
+      "bbox": [
+        1061,
+        639,
+        1181,
+        817
+      ],
+      "area": 10724
+    },
+    {
+      "id": 11,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_011.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_011.png",
+      "bbox": [
+        1466,
+        639,
+        1483,
+        654
+      ],
+      "area": 255
+    },
+    {
+      "id": 12,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_012.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_012.png",
+      "bbox": [
+        465,
+        641,
+        584,
+        816
+      ],
+      "area": 15050
+    },
+    {
+      "id": 13,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_013.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_013.png",
+      "bbox": [
+        1489,
+        642,
+        1607,
+        815
+      ],
+      "area": 9370
+    },
+    {
+      "id": 14,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_014.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_014.png",
+      "bbox": [
+        1794,
+        642,
+        1936,
+        814
+      ],
+      "area": 12431
+    },
+    {
+      "id": 15,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_015.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_015.png",
+      "bbox": [
+        304,
+        645,
+        433,
+        838
+      ],
+      "area": 9128
+    },
+    {
+      "id": 16,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_016.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_016.png",
+      "bbox": [
+        934,
+        644,
+        1039,
+        820
+      ],
+      "area": 11934
+    },
+    {
+      "id": 17,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_017.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_017.png",
+      "bbox": [
+        1326,
+        646,
+        1463,
+        819
+      ],
+      "area": 14226
+    },
+    {
+      "id": 18,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_018.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_018.png",
+      "bbox": [
+        1643,
+        646,
+        1746,
+        822
+      ],
+      "area": 11265
+    },
+    {
+      "id": 19,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_019.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_019.png",
+      "bbox": [
+        1622,
+        711,
+        1637,
+        727
+      ],
+      "area": 240
+    },
+    {
+      "id": 20,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_020.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_020.png",
+      "bbox": [
+        328,
+        904,
+        603,
+        1090
+      ],
+      "area": 29207
+    },
+    {
+      "id": 21,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_021.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_021.png",
+      "bbox": [
+        468,
+        1951,
+        561,
+        1982
+      ],
+      "area": 1808
+    },
+    {
+      "id": 22,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_022.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_022.png",
+      "bbox": [
+        791,
+        1968,
+        882,
+        1995
+      ],
+      "area": 1846
+    },
+    {
+      "id": 23,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_023.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_023.png",
+      "bbox": [
+        427,
+        1973,
+        442,
+        1988
+      ],
+      "area": 225
+    },
+    {
+      "id": 24,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_024.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_024.png",
+      "bbox": [
+        345,
+        1978,
+        412,
+        2025
+      ],
+      "area": 1940
+    },
+    {
+      "id": 25,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_025.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_025.png",
+      "bbox": [
+        904,
+        1978,
+        1389,
+        2109
+      ],
+      "area": 28595
+    },
+    {
+      "id": 26,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_026.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_026.png",
+      "bbox": [
+        367,
+        1987,
+        681,
+        2154
+      ],
+      "area": 20751
+    },
+    {
+      "id": 27,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_027.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_027.png",
+      "bbox": [
+        765,
+        2007,
+        804,
+        2040
+      ],
+      "area": 968
+    },
+    {
+      "id": 28,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_028.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_028.png",
+      "bbox": [
+        487,
+        2012,
+        503,
+        2027
+      ],
+      "area": 240
+    },
+    {
+      "id": 29,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_029.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_029.png",
+      "bbox": [
+        741,
+        2048,
+        758,
+        2064
+      ],
+      "area": 272
+    },
+    {
+      "id": 30,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_030.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_030.png",
+      "bbox": [
+        5520,
+        2055,
+        5628,
+        2233
+      ],
+      "area": 10816
+    },
+    {
+      "id": 31,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_031.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_031.png",
+      "bbox": [
+        5665,
+        2056,
+        5913,
+        2237
+      ],
+      "area": 21814
+    },
+    {
+      "id": 32,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_032.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_032.png",
+      "bbox": [
+        5365,
+        2061,
+        5487,
+        2238
+      ],
+      "area": 11659
+    },
+    {
+      "id": 33,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_033.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_033.png",
+      "bbox": [
+        5943,
+        2060,
+        6052,
+        2237
+      ],
+      "area": 8994
+    },
+    {
+      "id": 34,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_034.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_034.png",
+      "bbox": [
+        5038,
+        2063,
+        5163,
+        2240
+      ],
+      "area": 8031
+    },
+    {
+      "id": 35,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_035.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_035.png",
+      "bbox": [
+        5201,
+        2062,
+        5313,
+        2236
+      ],
+      "area": 14604
+    },
+    {
+      "id": 36,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_036.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_036.png",
+      "bbox": [
+        6221,
+        2063,
+        6474,
+        2243
+      ],
+      "area": 24273
+    },
+    {
+      "id": 37,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_037.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_037.png",
+      "bbox": [
+        6543,
+        2062,
+        6649,
+        2243
+      ],
+      "area": 10867
+    },
+    {
+      "id": 38,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_038.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_038.png",
+      "bbox": [
+        6077,
+        2064,
+        6191,
+        2242
+      ],
+      "area": 12790
+    },
+    {
+      "id": 39,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_039.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_039.png",
+      "bbox": [
+        1465,
+        2077,
+        1480,
+        2092
+      ],
+      "area": 225
+    },
+    {
+      "id": 40,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_040.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_040.png",
+      "bbox": [
+        6214,
+        2174,
+        6237,
+        2208
+      ],
+      "area": 689
+    },
+    {
+      "id": 41,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_041.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_041.png",
+      "bbox": [
+        1202,
+        2266,
+        1227,
+        2294
+      ],
+      "area": 608
+    },
+    {
+      "id": 42,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_042.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_042.png",
+      "bbox": [
+        1148,
+        2272,
+        1387,
+        2400
+      ],
+      "area": 15106
+    },
+    {
+      "id": 43,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_043.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_043.png",
+      "bbox": [
+        278,
+        2275,
+        520,
+        2408
+      ],
+      "area": 12952
+    },
+    {
+      "id": 44,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_044.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_044.png",
+      "bbox": [
+        560,
+        2274,
+        1109,
+        2392
+      ],
+      "area": 30920
+    },
+    {
+      "id": 45,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_045.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_045.png",
+      "bbox": [
+        5188,
+        2534,
+        5324,
+        2649
+      ],
+      "area": 6956
+    },
+    {
+      "id": 46,
+      "filled_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\filled\\crop_046.png",
+      "missing_crop": "i:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\Template_modification\\metods_to_find_missing parts_ and_make_crops\\05_position_classifier\\dataset\\missing\\crop_046.png",
+      "bbox": [
+        5344,
+        2541,
+        5370,
+        2586
+      ],
+      "area": 968
+    }
+  ]
+}
