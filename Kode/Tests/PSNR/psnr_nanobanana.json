@@ -1,0 +1,4718 @@
+{
+    "method": "Random pairing PSNR",
+    "num_runs": 100,
+    "pairs_per_run": 8,
+    "total_pair_comparisons": 800,
+    "target_size": {
+        "width": 404,
+        "height": 171
+    },
+    "random_seed": 42,
+    "generated_folder": "F:\\BachmapperMedBilder\\Generert\\Upscaled\\Scaledto404x171",
+    "real_folder": "F:\\BachmapperMedBilder\\Datasett\\170dataset_404x171",
+    "overall_average_psnr": 11.0235,
+    "overall_standard_deviation_over_all_pairs": 0.8097,
+    "result": "11.0235 ± 0.8097 dB",
+    "runs": [
+        {
+            "run": 1,
+            "average_psnr": 11.0366,
+            "standard_deviation_over_pairs": 0.9696,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "psnr": 11.2777
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "psnr": 11.1364
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16006.jpg",
+                    "psnr": 9.1586
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 11.274
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "psnr": 12.5115
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-bill-front.png",
+                    "psnr": 12.029
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.3331
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "psnr": 10.5727
+                }
+            ]
+        },
+        {
+            "run": 2,
+            "average_psnr": 10.8888,
+            "standard_deviation_over_pairs": 0.4991,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "psnr": 11.2213
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 10.4893
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "psnr": 11.2516
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "-dollars-bill-banknote-old-american-money-banknote-vintage-retro-usd-2JTJ214.jpg",
+                    "psnr": 10.6633
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 10.5269
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 11.274
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "psnr": 11.6347
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 10.0495
+                }
+            ]
+        },
+        {
+            "run": 3,
+            "average_psnr": 11.2819,
+            "standard_deviation_over_pairs": 1.1086,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.jpg",
+                    "psnr": 11.2494
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1600_10.jpg",
+                    "psnr": 10.7889
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 12.2982
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 11.6801
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12003_9.jpg",
+                    "psnr": 10.8704
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 11.4272
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "psnr": 12.972
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-png-image_10178719.png",
+                    "psnr": 8.9688
+                }
+            ]
+        },
+        {
+            "run": 4,
+            "average_psnr": 11.0036,
+            "standard_deviation_over_pairs": 0.985,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 11.5064
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "psnr": 10.4252
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "psnr": 12.387
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "psnr": 10.1776
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "psnr": 9.1523
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_190283098-stock-photo-old-and-new-100-dollar.jpg",
+                    "psnr": 11.6506
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "psnr": 10.8792
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 11.8504
+                }
+            ]
+        },
+        {
+            "run": 5,
+            "average_psnr": 10.9662,
+            "standard_deviation_over_pairs": 1.033,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "psnr": 10.6656
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "psnr": 11.3903
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "psnr": 10.0737
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 9.2569
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.1996
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e2.jpg",
+                    "psnr": 12.4906
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "psnr": 12.1066
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 11.5466
+                }
+            ]
+        },
+        {
+            "run": 6,
+            "average_psnr": 11.5825,
+            "standard_deviation_over_pairs": 0.9402,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "psnr": 12.387
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "psnr": 12.0785
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "psnr": 12.2707
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "psnr": 12.9686
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "psnr": 10.8863
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "psnr": 10.6374
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "psnr": 10.0438
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "psnr": 11.3879
+                }
+            ]
+        },
+        {
+            "run": 7,
+            "average_psnr": 11.2351,
+            "standard_deviation_over_pairs": 0.7003,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 10.6524
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc91.jpg",
+                    "psnr": 11.1354
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 12.566
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "psnr": 11.0204
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 10.4941
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "psnr": 10.7481
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120019.jpg",
+                    "psnr": 11.06
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120011.jpg",
+                    "psnr": 12.2043
+                }
+            ]
+        },
+        {
+            "run": 8,
+            "average_psnr": 11.0581,
+            "standard_deviation_over_pairs": 0.6146,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 10.0495
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "psnr": 10.1849
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 10.9479
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 11.725
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 11.1149
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "psnr": 11.1536
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "psnr": 11.4386
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 11.8504
+                }
+            ]
+        },
+        {
+            "run": 9,
+            "average_psnr": 10.8109,
+            "standard_deviation_over_pairs": 0.7573,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l640_3.jpg",
+                    "psnr": 10.2612
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "psnr": 11.0372
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "24100-E_28202229.jpg",
+                    "psnr": 11.0982
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "psnr": 12.2476
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "psnr": 11.0809
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 9.4991
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.9705
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "psnr": 10.292
+                }
+            ]
+        },
+        {
+            "run": 10,
+            "average_psnr": 10.684,
+            "standard_deviation_over_pairs": 0.524,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 10.9104
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "psnr": 10.2752
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "82512021_438.jpg",
+                    "psnr": 10.1102
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 11.3098
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "psnr": 10.1086
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "psnr": 10.4001
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "psnr": 10.7571
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "psnr": 11.6009
+                }
+            ]
+        },
+        {
+            "run": 11,
+            "average_psnr": 10.7844,
+            "standard_deviation_over_pairs": 0.7745,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "psnr": 11.8407
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "psnr": 9.4004
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "psnr": 11.6178
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "psnr": 11.2807
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "118726723.jpg",
+                    "psnr": 10.3366
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "psnr": 10.1802
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "psnr": 11.1695
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 10.449
+                }
+            ]
+        },
+        {
+            "run": 12,
+            "average_psnr": 11.0581,
+            "standard_deviation_over_pairs": 0.998,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "psnr": 12.9686
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "psnr": 10.2652
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "psnr": 9.9587
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "psnr": 12.0048
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12008_9.jpg",
+                    "psnr": 11.7499
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "psnr": 10.2823
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "psnr": 10.8583
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 10.3769
+                }
+            ]
+        },
+        {
+            "run": 13,
+            "average_psnr": 11.3107,
+            "standard_deviation_over_pairs": 0.773,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "psnr": 11.3344
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "psnr": 10.4429
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "psnr": 11.262
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "psnr": 12.6215
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "118726723.jpg",
+                    "psnr": 11.1931
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "psnr": 10.2147
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "psnr": 11.0865
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "psnr": 12.3308
+                }
+            ]
+        },
+        {
+            "run": 14,
+            "average_psnr": 11.1359,
+            "standard_deviation_over_pairs": 0.6222,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 11.708
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "psnr": 11.7795
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 10.3667
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "psnr": 11.932
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2013-100-dollar-frn-lead.tmb-slide-1900.jpg",
+                    "psnr": 11.2348
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 10.4359
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12002.jpg",
+                    "psnr": 11.2763
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "psnr": 10.3545
+                }
+            ]
+        },
+        {
+            "run": 15,
+            "average_psnr": 11.1093,
+            "standard_deviation_over_pairs": 0.6683,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 11.8133
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 12.0507
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "psnr": 10.8765
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "psnr": 11.4035
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 10.4941
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "psnr": 9.8271
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc91.jpg",
+                    "psnr": 11.1354
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 11.274
+                }
+            ]
+        },
+        {
+            "run": 16,
+            "average_psnr": 10.9424,
+            "standard_deviation_over_pairs": 0.6752,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "psnr": 10.5946
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 11.6938
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "psnr": 11.9404
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.1241
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "psnr": 10.9314
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "psnr": 10.2497
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 10.3667
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "psnr": 11.6385
+                }
+            ]
+        },
+        {
+            "run": 17,
+            "average_psnr": 11.1732,
+            "standard_deviation_over_pairs": 0.7056,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 12.8771
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.692
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "psnr": 11.2032
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 11.2771
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "psnr": 10.956
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "psnr": 10.3266
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "psnr": 10.9044
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 11.149
+                }
+            ]
+        },
+        {
+            "run": 18,
+            "average_psnr": 10.7276,
+            "standard_deviation_over_pairs": 0.6806,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-front-2013-present.jpg.jpg",
+                    "psnr": 11.3128
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "psnr": 10.7481
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004_9.jpg",
+                    "psnr": 9.7832
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "psnr": 11.4847
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "psnr": 10.163
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 10.9479
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100668977-new-100-dollar-bill-AP.jpg",
+                    "psnr": 9.8165
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_2.jpg",
+                    "psnr": 11.5643
+                }
+            ]
+        },
+        {
+            "run": 19,
+            "average_psnr": 11.0705,
+            "standard_deviation_over_pairs": 0.9554,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "psnr": 10.9183
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "psnr": 11.3836
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 12.566
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "psnr": 11.7379
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 10.5486
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-dollar-bills-on-white-background-isolated-business-money-concept-template-R986PW.jpg",
+                    "psnr": 11.6484
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "psnr": 10.6089
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "psnr": 9.1523
+                }
+            ]
+        },
+        {
+            "run": 20,
+            "average_psnr": 11.4247,
+            "standard_deviation_over_pairs": 0.4858,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_200776148-stock-photo-wallpaper-background-american-money-hundred.jpg",
+                    "psnr": 11.2717
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 10.6524
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120010_6.jpg",
+                    "psnr": 10.903
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "psnr": 11.8268
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "psnr": 11.3049
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "psnr": 12.308
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_9.jpg",
+                    "psnr": 11.5485
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "psnr": 11.582
+                }
+            ]
+        },
+        {
+            "run": 21,
+            "average_psnr": 11.043,
+            "standard_deviation_over_pairs": 0.72,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "psnr": 10.9253
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "psnr": 11.5598
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "118726723.jpg",
+                    "psnr": 11.314
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 10.6122
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "psnr": 10.7413
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "psnr": 10.0111
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 10.6274
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "psnr": 12.5527
+                }
+            ]
+        },
+        {
+            "run": 22,
+            "average_psnr": 11.0907,
+            "standard_deviation_over_pairs": 0.9254,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "54936924-new-100-u-s-dollar-banknote.jpg",
+                    "psnr": 10.8536
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 12.8771
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 10.166
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 11.8133
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.2055
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 11.149
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "psnr": 10.0229
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "psnr": 11.6382
+                }
+            ]
+        },
+        {
+            "run": 23,
+            "average_psnr": 10.8668,
+            "standard_deviation_over_pairs": 0.9317,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "psnr": 10.77
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 9.5326
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.2705
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 11.104
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "psnr": 11.3459
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 12.4781
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "psnr": 9.7491
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "psnr": 11.6841
+                }
+            ]
+        },
+        {
+            "run": 24,
+            "average_psnr": 10.576,
+            "standard_deviation_over_pairs": 0.6882,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "24100-E_28202229.jpg",
+                    "psnr": 11.0982
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "psnr": 9.6929
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "61pzAkLeHTL._AC_UY1000_.jpg",
+                    "psnr": 9.6595
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "psnr": 11.2777
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "psnr": 11.6503
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "psnr": 10.7413
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "psnr": 10.2828
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.2055
+                }
+            ]
+        },
+        {
+            "run": 25,
+            "average_psnr": 11.1316,
+            "standard_deviation_over_pairs": 0.8367,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "bbbdba9f0f25280ffa16e08e19202bc8.jpg",
+                    "psnr": 12.3963
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 12.0507
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "psnr": 9.9419
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "psnr": 11.0778
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "psnr": 11.5707
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 10.3667
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "psnr": 10.2033
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 11.4456
+                }
+            ]
+        },
+        {
+            "run": 26,
+            "average_psnr": 11.0183,
+            "standard_deviation_over_pairs": 0.8068,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120012_1.jpg",
+                    "psnr": 10.3893
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 11.9443
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "psnr": 10.8863
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 9.4991
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 11.9599
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 11.387
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "psnr": 11.5906
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "psnr": 10.4897
+                }
+            ]
+        },
+        {
+            "run": 27,
+            "average_psnr": 11.0973,
+            "standard_deviation_over_pairs": 0.866,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 10.7601
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "psnr": 10.7993
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "psnr": 12.9686
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "psnr": 11.6195
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "psnr": 11.2225
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "118726723.jpg",
+                    "psnr": 11.2017
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "psnr": 10.2023
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l640_3.jpg",
+                    "psnr": 10.0043
+                }
+            ]
+        },
+        {
+            "run": 28,
+            "average_psnr": 11.303,
+            "standard_deviation_over_pairs": 0.4998,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "psnr": 11.7533
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 10.6524
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "psnr": 11.1259
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 11.3381
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 11.0133
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "psnr": 11.1789
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.jpg",
+                    "psnr": 10.9903
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "psnr": 12.3721
+                }
+            ]
+        },
+        {
+            "run": 29,
+            "average_psnr": 11.048,
+            "standard_deviation_over_pairs": 0.8306,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 11.8682
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "psnr": 11.0658
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "psnr": 11.0375
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12009.jpg",
+                    "psnr": 10.1525
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 11.5596
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "background-of-100-dollar-bills-money-american-hundred-dollar-bi-P4DTWY.jpg",
+                    "psnr": 12.1203
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pexels-photo-14820454.jpeg",
+                    "psnr": 9.4287
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12002.jpg",
+                    "psnr": 11.1513
+                }
+            ]
+        },
+        {
+            "run": 30,
+            "average_psnr": 11.0698,
+            "standard_deviation_over_pairs": 1.0287,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "psnr": 10.3656
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "psnr": 9.1234
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 11.894
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "psnr": 10.936
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "psnr": 12.2314
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "psnr": 11.9574
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.2055
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "psnr": 11.8448
+                }
+            ]
+        },
+        {
+            "run": 31,
+            "average_psnr": 11.0296,
+            "standard_deviation_over_pairs": 0.7678,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "psnr": 11.222
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "psnr": 11.0375
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "psnr": 10.6192
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "psnr": 11.1648
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "bbbdba9f0f25280ffa16e08e19202bc8.jpg",
+                    "psnr": 12.092
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002.jpg",
+                    "psnr": 11.333
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "psnr": 11.4883
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 9.2798
+                }
+            ]
+        },
+        {
+            "run": 32,
+            "average_psnr": 10.918,
+            "standard_deviation_over_pairs": 1.0172,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 8.9536
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "psnr": 11.6781
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "psnr": 11.4666
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "psnr": 12.3308
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "psnr": 10.7567
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.2705
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "psnr": 10.2033
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "psnr": 11.6841
+                }
+            ]
+        },
+        {
+            "run": 33,
+            "average_psnr": 11.0102,
+            "standard_deviation_over_pairs": 0.6758,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 11.5064
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 11.6214
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "psnr": 11.9506
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "psnr": 10.0727
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "psnr": 10.0737
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.849
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "psnr": 11.4325
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "psnr": 10.5751
+                }
+            ]
+        },
+        {
+            "run": 34,
+            "average_psnr": 11.3501,
+            "standard_deviation_over_pairs": 0.8071,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "stsmall845x845-pad1000x1000f8f8f8.jpg",
+                    "psnr": 11.9422
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "-dollars-bill-banknote-old-american-money-banknote-vintage-retro-usd-2JTJ214.jpg",
+                    "psnr": 9.5795
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 11.8133
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 12.0907
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "psnr": 11.3485
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af_1.jpg",
+                    "psnr": 10.5474
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12008_9.jpg",
+                    "psnr": 11.6529
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004.jpg",
+                    "psnr": 11.8263
+                }
+            ]
+        },
+        {
+            "run": 35,
+            "average_psnr": 10.8535,
+            "standard_deviation_over_pairs": 0.8864,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 11.5845
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "psnr": 9.4578
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "psnr": 10.3656
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120019.jpg",
+                    "psnr": 11.4934
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "psnr": 11.222
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "psnr": 11.4266
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 9.4991
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "psnr": 11.7795
+                }
+            ]
+        },
+        {
+            "run": 36,
+            "average_psnr": 11.1491,
+            "standard_deviation_over_pairs": 0.6096,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "psnr": 12.5527
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "psnr": 11.0788
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "psnr": 11.0006
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "psnr": 11.2881
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "psnr": 10.3137
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "psnr": 10.9626
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+                    "psnr": 11.2966
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 10.6997
+                }
+            ]
+        },
+        {
+            "run": 37,
+            "average_psnr": 11.2178,
+            "standard_deviation_over_pairs": 0.7838,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "psnr": 11.0276
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "psnr": 12.5114
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 11.9374
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "psnr": 9.6657
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 10.9561
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "psnr": 11.5355
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "psnr": 11.2208
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "background-of-100-dollar-bills-photo_1.jpg",
+                    "psnr": 10.8876
+                }
+            ]
+        },
+        {
+            "run": 38,
+            "average_psnr": 11.0439,
+            "standard_deviation_over_pairs": 0.8488,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "psnr": 12.8305
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-2017-with-the-portrait-of-president-benjamin-franklin-american-mon-2RDC8JE.jpg",
+                    "psnr": 10.3371
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "psnr": 10.025
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 11.3959
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "psnr": 11.5168
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_10.jpg",
+                    "psnr": 10.5026
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "psnr": 10.4627
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "psnr": 11.2807
+                }
+            ]
+        },
+        {
+            "run": 39,
+            "average_psnr": 11.1083,
+            "standard_deviation_over_pairs": 0.8276,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "psnr": 11.3822
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "psnr": 11.5355
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "psnr": 11.8448
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_5.jpg",
+                    "psnr": 10.462
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "psnr": 11.5169
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-banknotes-dollars-money-wallpaper-preview.jpg",
+                    "psnr": 11.6041
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-bill-american-100-dollar-american-dollars-cash-money-vertical-shot-2EYTJ2G.jpg",
+                    "psnr": 11.3581
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16006.jpg",
+                    "psnr": 9.1623
+                }
+            ]
+        },
+        {
+            "run": 40,
+            "average_psnr": 11.1083,
+            "standard_deviation_over_pairs": 0.7013,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_47217199-stock-illustration-100-u-s-dollars-banknote.jpg",
+                    "psnr": 11.8365
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 11.8504
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "psnr": 10.3274
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "psnr": 11.9014
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.692
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_770x500.jpg",
+                    "psnr": 11.0905
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "psnr": 11.2516
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "psnr": 9.9165
+                }
+            ]
+        },
+        {
+            "run": 41,
+            "average_psnr": 11.2844,
+            "standard_deviation_over_pairs": 0.5633,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "psnr": 11.0137
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "psnr": 10.5586
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "118726723.jpg",
+                    "psnr": 11.2017
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollar-bills-on-white-background-isolated-business-money-concept-template-R986PW.jpg",
+                    "psnr": 11.7258
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-bill-front.png",
+                    "psnr": 10.4286
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 12.0359
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "background-of-100-dollar-bills-photo2.jpg",
+                    "psnr": 11.9422
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-Dollar-Bill.jpg",
+                    "psnr": 11.369
+                }
+            ]
+        },
+        {
+            "run": 42,
+            "average_psnr": 10.8545,
+            "standard_deviation_over_pairs": 0.8911,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "psnr": 12.0714
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "psnr": 10.2779
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "psnr": 12.08
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 9.3439
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.4353
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "82512021_438.jpg",
+                    "psnr": 10.8179
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "psnr": 10.4809
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 10.3283
+                }
+            ]
+        },
+        {
+            "run": 43,
+            "average_psnr": 10.8151,
+            "standard_deviation_over_pairs": 0.481,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16006.jpg",
+                    "psnr": 10.6935
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "psnr": 10.3625
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 10.6122
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "psnr": 10.1779
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "psnr": 10.6192
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "psnr": 11.745
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "psnr": 11.3122
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "psnr": 10.9982
+                }
+            ]
+        },
+        {
+            "run": 44,
+            "average_psnr": 10.5842,
+            "standard_deviation_over_pairs": 0.5988,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "psnr": 9.7723
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "psnr": 9.8895
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 10.4597
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002.jpg",
+                    "psnr": 11.3305
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "p83uwuavw5571.jpg",
+                    "psnr": 10.9536
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.8083
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_9.jpg",
+                    "psnr": 11.4101
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 10.0495
+                }
+            ]
+        },
+        {
+            "run": 45,
+            "average_psnr": 11.0385,
+            "standard_deviation_over_pairs": 0.6587,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "psnr": 11.5519
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16006.jpg",
+                    "psnr": 10.749
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "psnr": 9.7695
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "psnr": 11.4638
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 11.5556
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "psnr": 11.2189
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "psnr": 11.7173
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "psnr": 10.2823
+                }
+            ]
+        },
+        {
+            "run": 46,
+            "average_psnr": 11.2832,
+            "standard_deviation_over_pairs": 0.6935,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "psnr": 11.7338
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "9302c0e8f73c99caf43b9fc804070cb2.jpg",
+                    "psnr": 11.4154
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "psnr": 12.0068
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "psnr": 11.3623
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "psnr": 9.5916
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "depositphotos_47217199-stock-illustration-100-u-s-dollars-banknote.jpg",
+                    "psnr": 11.7388
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "psnr": 11.1147
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "psnr": 11.3024
+                }
+            ]
+        },
+        {
+            "run": 47,
+            "average_psnr": 10.7,
+            "standard_deviation_over_pairs": 0.7026,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "psnr": 9.4568
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "psnr": 11.3731
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_200776148-stock-photo-wallpaper-background-american-money-hundred.jpg",
+                    "psnr": 10.8506
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "psnr": 11.5658
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "psnr": 11.0882
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "psnr": 9.8271
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-Bill-With-Blue-Stripe.jpg",
+                    "psnr": 11.0834
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.3549
+                }
+            ]
+        },
+        {
+            "run": 48,
+            "average_psnr": 10.7904,
+            "standard_deviation_over_pairs": 0.7124,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.1324
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "psnr": 10.0006
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.jpg",
+                    "psnr": 11.2494
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 11.6719
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "psnr": 11.2062
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "psnr": 9.6657
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "psnr": 11.5481
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.849
+                }
+            ]
+        },
+        {
+            "run": 49,
+            "average_psnr": 10.9251,
+            "standard_deviation_over_pairs": 0.5004,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "psnr": 9.9245
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 11.4602
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "american-dollars-cash-money-one-hundred-dollar-banknotes-2WD5N49.jpg",
+                    "psnr": 11.1176
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "psnr": 10.7993
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "psnr": 10.5194
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "psnr": 10.7653
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "psnr": 11.3466
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 11.4681
+                }
+            ]
+        },
+        {
+            "run": 50,
+            "average_psnr": 10.8603,
+            "standard_deviation_over_pairs": 0.4242,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "psnr": 11.2356
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "psnr": 11.5169
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "psnr": 10.9027
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "psnr": 11.2706
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 10.2298
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "psnr": 10.77
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.4724
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "psnr": 10.4843
+                }
+            ]
+        },
+        {
+            "run": 51,
+            "average_psnr": 11.1224,
+            "standard_deviation_over_pairs": 0.9512,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_9.jpg",
+                    "psnr": 9.9293
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "psnr": 10.5768
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "psnr": 11.1969
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "american-dollars-cash-money-one-hundred-dollar-banknotes-2WD5N49.jpg",
+                    "psnr": 10.9879
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "psnr": 10.2053
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_41814685-stock-photo-new-one-hundred-dollar-bill_1.jpg",
+                    "psnr": 13.2077
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.208
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "psnr": 11.6673
+                }
+            ]
+        },
+        {
+            "run": 52,
+            "average_psnr": 10.8315,
+            "standard_deviation_over_pairs": 0.6618,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "psnr": 11.6178
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "psnr": 12.0507
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "psnr": 10.9179
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "psnr": 10.3785
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "psnr": 10.3845
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 10.006
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 10.9932
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "psnr": 10.3034
+                }
+            ]
+        },
+        {
+            "run": 53,
+            "average_psnr": 11.0597,
+            "standard_deviation_over_pairs": 0.877,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.6141041859_7r3v.jpg",
+                    "psnr": 11.6196
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "psnr": 11.3836
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "psnr": 10.2033
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "psnr": 12.0447
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "psnr": 9.7922
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "psnr": 10.6818
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "bbbdba9f0f25280ffa16e08e19202bc8.jpg",
+                    "psnr": 12.3963
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "psnr": 10.356
+                }
+            ]
+        },
+        {
+            "run": 54,
+            "average_psnr": 10.7394,
+            "standard_deviation_over_pairs": 0.7081,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 10.7785
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "psnr": 10.4001
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 10.3667
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "psnr": 10.2823
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 10.9086
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "psnr": 10.4897
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "psnr": 10.1776
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "psnr": 12.5115
+                }
+            ]
+        },
+        {
+            "run": 55,
+            "average_psnr": 11.011,
+            "standard_deviation_over_pairs": 0.7704,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "psnr": 10.4521
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 10.8471
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "psnr": 10.3266
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "background-of-100-dollar-bills-money-american-hundred-dollar-bi-P4DTWY.jpg",
+                    "psnr": 11.7065
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "psnr": 12.0907
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.4353
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "psnr": 9.6669
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "psnr": 11.5626
+                }
+            ]
+        },
+        {
+            "run": 56,
+            "average_psnr": 11.5387,
+            "standard_deviation_over_pairs": 0.8274,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "psnr": 12.0048
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "psnr": 12.972
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "psnr": 11.2869
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "psnr": 11.9044
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "psnr": 12.0646
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "psnr": 10.3137
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "psnr": 10.4532
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 11.3098
+                }
+            ]
+        },
+        {
+            "run": 57,
+            "average_psnr": 11.1448,
+            "standard_deviation_over_pairs": 0.9385,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-banknotes-dollars-money-wallpaper-preview.jpg",
+                    "psnr": 12.483
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.3549
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "psnr": 12.2536
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "psnr": 10.255
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 9.6173
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-Dollar-Bill.jpg",
+                    "psnr": 11.369
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "psnr": 11.2092
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-dollar-bills-on-white-background-isolated-business-money-concept-template-R986PW.jpg",
+                    "psnr": 11.6167
+                }
+            ]
+        },
+        {
+            "run": 58,
+            "average_psnr": 10.8419,
+            "standard_deviation_over_pairs": 0.9949,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.2442
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "psnr": 10.2744
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "psnr": 11.3246
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 11.9374
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "psnr": 12.2583
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "psnr": 11.5078
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "psnr": 9.9419
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "82512021_438.jpg",
+                    "psnr": 9.2464
+                }
+            ]
+        },
+        {
+            "run": 59,
+            "average_psnr": 11.5432,
+            "standard_deviation_over_pairs": 0.7565,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.1873
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "psnr": 11.2189
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "psnr": 12.3721
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_41814685-stock-photo-new-one-hundred-dollar-bill_1.jpg",
+                    "psnr": 12.7541
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "psnr": 11.5365
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 10.8996
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "psnr": 11.799
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "psnr": 11.5781
+                }
+            ]
+        },
+        {
+            "run": 60,
+            "average_psnr": 10.9566,
+            "standard_deviation_over_pairs": 0.6315,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_5.jpg",
+                    "psnr": 11.3407
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_12.jpg",
+                    "psnr": 9.8083
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "psnr": 10.2691
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 11.6287
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "psnr": 10.62
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "background-of-100-dollar-bills-photo_1.jpg",
+                    "psnr": 11.7419
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "psnr": 11.2092
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "psnr": 11.0346
+                }
+            ]
+        },
+        {
+            "run": 61,
+            "average_psnr": 11.0307,
+            "standard_deviation_over_pairs": 0.5841,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "psnr": 10.5547
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.8683
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "psnr": 11.9404
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 10.3667
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.2909
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "psnr": 11.0137
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.6055
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004.jpg",
+                    "psnr": 11.6056
+                }
+            ]
+        },
+        {
+            "run": 62,
+            "average_psnr": 11.0816,
+            "standard_deviation_over_pairs": 0.8151,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "psnr": 11.5782
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "psnr": 9.6084
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 12.2741
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.9705
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.2041
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "psnr": 10.8127
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "psnr": 11.8013
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "psnr": 11.4035
+                }
+            ]
+        },
+        {
+            "run": 63,
+            "average_psnr": 10.9072,
+            "standard_deviation_over_pairs": 1.1879,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "psnr": 11.6081
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "psnr": 12.8305
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 10.894
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "psnr": 12.313
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 10.7601
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "psnr": 9.6594
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "61pzAkLeHTL._AC_UY1000_.jpg",
+                    "psnr": 9.3652
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "psnr": 9.8271
+                }
+            ]
+        },
+        {
+            "run": 64,
+            "average_psnr": 11.1451,
+            "standard_deviation_over_pairs": 0.598,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_200776148-stock-photo-wallpaper-background-american-money-hundred.jpg",
+                    "psnr": 11.5058
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16004.jpg",
+                    "psnr": 10.5268
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "psnr": 11.8013
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_190283098-stock-photo-old-and-new-100-dollar.jpg",
+                    "psnr": 11.641
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120012_1.jpg",
+                    "psnr": 10.3893
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 11.5064
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+                    "psnr": 10.245
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "psnr": 11.5449
+                }
+            ]
+        },
+        {
+            "run": 65,
+            "average_psnr": 11.4408,
+            "standard_deviation_over_pairs": 0.761,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "psnr": 11.3394
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "psnr": 12.0312
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12009_3.jpg",
+                    "psnr": 10.0634
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 10.692
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "psnr": 12.5782
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc912.jpg",
+                    "psnr": 11.0669
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 11.894
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "stsmall845x845-pad1000x1000f8f8f8.jpg",
+                    "psnr": 11.8617
+                }
+            ]
+        },
+        {
+            "run": 66,
+            "average_psnr": 11.1801,
+            "standard_deviation_over_pairs": 0.6094,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "psnr": 11.6195
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "psnr": 11.5169
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 11.4601
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+                    "psnr": 12.0682
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "psnr": 10.2691
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "psnr": 10.3737
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 10.6849
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "psnr": 11.4481
+                }
+            ]
+        },
+        {
+            "run": 67,
+            "average_psnr": 11.3165,
+            "standard_deviation_over_pairs": 0.7283,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "psnr": 10.6818
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.8083
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 10.3646
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "psnr": 11.386
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "psnr": 12.8305
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100-bill-front.png",
+                    "psnr": 11.0465
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 11.6801
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "psnr": 11.7338
+                }
+            ]
+        },
+        {
+            "run": 68,
+            "average_psnr": 10.7347,
+            "standard_deviation_over_pairs": 0.8969,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "psnr": 10.9594
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "9302c0e8f73c99caf43b9fc804070cb2.jpg",
+                    "psnr": 11.4976
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e2.jpg",
+                    "psnr": 12.4906
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "psnr": 9.8983
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "psnr": 9.4467
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "psnr": 10.9221
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 10.3598
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "psnr": 10.3034
+                }
+            ]
+        },
+        {
+            "run": 69,
+            "average_psnr": 10.9579,
+            "standard_deviation_over_pairs": 0.8287,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "psnr": 12.1777
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "00000094.png",
+                    "psnr": 9.9183
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "psnr": 11.3944
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "psnr": 11.0006
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "psnr": 9.4464
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 10.9479
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "psnr": 11.1938
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 11.5845
+                }
+            ]
+        },
+        {
+            "run": 70,
+            "average_psnr": 11.2021,
+            "standard_deviation_over_pairs": 0.5567,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "psnr": 10.6459
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "psnr": 11.8608
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 11.3381
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "psnr": 11.0356
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 11.8504
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16004.jpg",
+                    "psnr": 10.359
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "one-hundred-dollars-one-dollar-closeup-white-background-close-up-38340033.jpg",
+                    "psnr": 11.7886
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "psnr": 10.7382
+                }
+            ]
+        },
+        {
+            "run": 71,
+            "average_psnr": 10.9036,
+            "standard_deviation_over_pairs": 0.8282,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 9.4996
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_12.jpg",
+                    "psnr": 9.8083
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "psnr": 11.2038
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "psnr": 12.2536
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "psnr": 11.1824
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "psnr": 11.0175
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.8083
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "psnr": 11.4551
+                }
+            ]
+        },
+        {
+            "run": 72,
+            "average_psnr": 11.0921,
+            "standard_deviation_over_pairs": 0.9006,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "psnr": 11.2977
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "psnr": 10.2147
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "psnr": 11.7533
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pexels-photo-14820454.jpeg",
+                    "psnr": 9.6762
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "psnr": 11.1746
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.2442
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "psnr": 11.9574
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "psnr": 12.4186
+                }
+            ]
+        },
+        {
+            "run": 73,
+            "average_psnr": 11.2801,
+            "standard_deviation_over_pairs": 0.8239,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "psnr": 11.9673
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "psnr": 11.5782
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "psnr": 12.4413
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new_100_dollar_bill_770x500.jpg",
+                    "psnr": 9.5633
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.4208
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "psnr": 11.5727
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "psnr": 10.6303
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc912.jpg",
+                    "psnr": 11.0669
+                }
+            ]
+        },
+        {
+            "run": 74,
+            "average_psnr": 11.0796,
+            "standard_deviation_over_pairs": 0.7207,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 12.2524
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 11.6549
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "psnr": 9.9751
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 11.6584
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "psnr": 10.388
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "psnr": 10.7643
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 11.3541
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l4003_1.png",
+                    "psnr": 10.5895
+                }
+            ]
+        },
+        {
+            "run": 75,
+            "average_psnr": 11.112,
+            "standard_deviation_over_pairs": 0.6227,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "psnr": 9.8875
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "psnr": 11.1536
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.8083
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004.jpg",
+                    "psnr": 11.6056
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "psnr": 11.9511
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "psnr": 10.5586
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 11.5106
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.4208
+                }
+            ]
+        },
+        {
+            "run": 76,
+            "average_psnr": 10.8621,
+            "standard_deviation_over_pairs": 0.5365,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "psnr": 11.4602
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "54936924-new-100-u-s-dollar-banknote.jpg",
+                    "psnr": 11.3865
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-2017-with-the-portrait-of-president-benjamin-franklin-american-mon-2RDC8JE.jpg",
+                    "psnr": 10.4627
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "psnr": 11.6584
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "psnr": 10.5183
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 10.6997
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "psnr": 10.025
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 10.6856
+                }
+            ]
+        },
+        {
+            "run": 77,
+            "average_psnr": 10.9205,
+            "standard_deviation_over_pairs": 0.8135,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "psnr": 12.3241
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "psnr": 10.5183
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "psnr": 10.0128
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 11.5845
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "psnr": 11.2881
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "p83uwuavw5571.jpg",
+                    "psnr": 11.2873
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "psnr": 10.6818
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "psnr": 9.6669
+                }
+            ]
+        },
+        {
+            "run": 78,
+            "average_psnr": 10.9608,
+            "standard_deviation_over_pairs": 0.6805,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "psnr": 10.3266
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "psnr": 11.7831
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l640_3.jpg",
+                    "psnr": 9.6259
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l4003_1.png",
+                    "psnr": 11.0342
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 10.9086
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-Dollar-Bill.jpg",
+                    "psnr": 11.2023
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-front-2013-present.jpg.jpg",
+                    "psnr": 11.843
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "psnr": 10.9626
+                }
+            ]
+        },
+        {
+            "run": 79,
+            "average_psnr": 11.1872,
+            "standard_deviation_over_pairs": 0.4659,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_190283098-stock-photo-old-and-new-100-dollar.jpg",
+                    "psnr": 11.6506
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "psnr": 11.5127
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "psnr": 10.8127
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 11.3154
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "psnr": 10.409
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "psnr": 11.2706
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "psnr": 11.8268
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "psnr": 10.6997
+                }
+            ]
+        },
+        {
+            "run": 80,
+            "average_psnr": 11.1933,
+            "standard_deviation_over_pairs": 0.7191,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "psnr": 11.1129
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 10.9832
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "psnr": 11.3389
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100-Bill-With-Blue-Stripe.jpg",
+                    "psnr": 10.9072
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "psnr": 12.1774
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "psnr": 12.2524
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "psnr": 10.9319
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "psnr": 9.8425
+                }
+            ]
+        },
+        {
+            "run": 81,
+            "average_psnr": 10.9458,
+            "standard_deviation_over_pairs": 0.9072,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "psnr": 10.5756
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "psnr": 11.3908
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "psnr": 11.1867
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_21.jpg",
+                    "psnr": 9.546
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "psnr": 11.8218
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 10.449
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12009.jpg",
+                    "psnr": 10.0796
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "psnr": 12.5166
+                }
+            ]
+        },
+        {
+            "run": 82,
+            "average_psnr": 10.6344,
+            "standard_deviation_over_pairs": 0.8348,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "psnr": 10.2203
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 10.3646
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "psnr": 11.2181
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "psnr": 10.0077
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "psnr": 11.6009
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 9.1652
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "psnr": 11.8609
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "psnr": 10.6374
+                }
+            ]
+        },
+        {
+            "run": 83,
+            "average_psnr": 10.8533,
+            "standard_deviation_over_pairs": 0.5738,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "psnr": 10.5034
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600_10.jpg",
+                    "psnr": 11.192
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12002.jpg",
+                    "psnr": 11.071
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "psnr": 10.0003
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.6055
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "stsmall845x845-pad1000x1000f8f8f8.jpg",
+                    "psnr": 11.6192
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "psnr": 10.6294
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "psnr": 10.2055
+                }
+            ]
+        },
+        {
+            "run": 84,
+            "average_psnr": 11.1886,
+            "standard_deviation_over_pairs": 0.8059,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "psnr": 11.9729
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "2013-100-dollar-frn-lead.tmb-slide-1900.jpg",
+                    "psnr": 11.8116
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "psnr": 12.2707
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120019.jpg",
+                    "psnr": 10.6762
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "psnr": 10.0446
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "psnr": 10.0387
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 11.149
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "psnr": 11.5449
+                }
+            ]
+        },
+        {
+            "run": 85,
+            "average_psnr": 10.8386,
+            "standard_deviation_over_pairs": 0.6388,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "psnr": 10.5664
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "psnr": 11.2208
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 10.9832
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "psnr": 9.4929
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "psnr": 11.8214
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "psnr": 10.5278
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120012_1.jpg",
+                    "psnr": 10.8729
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "psnr": 11.2237
+                }
+            ]
+        },
+        {
+            "run": 86,
+            "average_psnr": 11.0557,
+            "standard_deviation_over_pairs": 0.5456,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "psnr": 10.6112
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "psnr": 11.5255
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "psnr": 10.0246
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "psnr": 11.7831
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "psnr": 11.149
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 10.7601
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "psnr": 11.5782
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "psnr": 11.0137
+                }
+            ]
+        },
+        {
+            "run": 87,
+            "average_psnr": 10.4992,
+            "standard_deviation_over_pairs": 1.0617,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "psnr": 10.9723
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_5.jpg",
+                    "psnr": 11.3321
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_21.jpg",
+                    "psnr": 10.1428
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l640_3.jpg",
+                    "psnr": 10.0043
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "psnr": 10.7613
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-banknotes-dollars-money-wallpaper-preview.jpg",
+                    "psnr": 12.483
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 9.3439
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 8.9536
+                }
+            ]
+        },
+        {
+            "run": 88,
+            "average_psnr": 11.0902,
+            "standard_deviation_over_pairs": 0.9299,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "9302c0e8f73c99caf43b9fc804070cb2.jpg",
+                    "psnr": 10.8537
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc912.jpg",
+                    "psnr": 11.0669
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "psnr": 10.9982
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "psnr": 10.6318
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "psnr": 12.9686
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "118726723.jpg",
+                    "psnr": 9.756
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.4174
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-bill-front.png",
+                    "psnr": 12.029
+                }
+            ]
+        },
+        {
+            "run": 89,
+            "average_psnr": 11.0015,
+            "standard_deviation_over_pairs": 0.8812,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "psnr": 10.5269
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "psnr": 9.345
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "psnr": 10.4809
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "psnr": 12.4186
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "psnr": 11.4973
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 11.3154
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "psnr": 11.7279
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "psnr": 10.6999
+                }
+            ]
+        },
+        {
+            "run": 90,
+            "average_psnr": 10.9202,
+            "standard_deviation_over_pairs": 1.0871,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "psnr": 11.2807
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "psnr": 9.1652
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 10.8512
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "psnr": 11.8269
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "psnr": 9.1997
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "psnr": 11.1392
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "psnr": 12.3308
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.568
+                }
+            ]
+        },
+        {
+            "run": 91,
+            "average_psnr": 11.219,
+            "standard_deviation_over_pairs": 0.6094,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "psnr": 10.4627
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120010_6.jpg",
+                    "psnr": 10.92
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "psnr": 11.4693
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100668977-new-100-dollar-bill-AP.jpg",
+                    "psnr": 10.8529
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "-dollars-bill-banknote-old-american-money-banknote-vintage-retro-usd-2JTJ214.jpg",
+                    "psnr": 10.8944
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "background-of-100-dollar-bills-photo_1.jpg",
+                    "psnr": 10.8876
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "psnr": 11.7952
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "psnr": 12.4703
+                }
+            ]
+        },
+        {
+            "run": 92,
+            "average_psnr": 11.3092,
+            "standard_deviation_over_pairs": 0.7363,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002.jpg",
+                    "psnr": 11.333
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "psnr": 11.5535
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "psnr": 11.8268
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "psnr": 9.6061
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "psnr": 11.2989
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "psnr": 12.2536
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "psnr": 11.6295
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "psnr": 10.9723
+                }
+            ]
+        },
+        {
+            "run": 93,
+            "average_psnr": 10.9346,
+            "standard_deviation_over_pairs": 0.8467,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "psnr": 10.0848
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "psnr": 10.7382
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120019.jpg",
+                    "psnr": 10.9274
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16004.jpg",
+                    "psnr": 10.8993
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "psnr": 12.7495
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l4003_1.png",
+                    "psnr": 10.5895
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "psnr": 11.6064
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "psnr": 9.882
+                }
+            ]
+        },
+        {
+            "run": 94,
+            "average_psnr": 10.9936,
+            "standard_deviation_over_pairs": 0.7139,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "psnr": 11.1346
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "psnr": 11.1789
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "psnr": 11.1586
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "psnr": 11.5556
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "psnr": 11.4681
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120011.jpg",
+                    "psnr": 11.2391
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12009_3.jpg",
+                    "psnr": 11.0614
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "psnr": 9.1523
+                }
+            ]
+        },
+        {
+            "run": 95,
+            "average_psnr": 10.8635,
+            "standard_deviation_over_pairs": 0.7914,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12008_2.jpg",
+                    "psnr": 11.186
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "psnr": 10.8083
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "psnr": 11.4208
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "psnr": 8.9241
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "psnr": 10.7993
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "psnr": 11.6629
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "psnr": 11.2941
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "psnr": 10.8127
+                }
+            ]
+        },
+        {
+            "run": 96,
+            "average_psnr": 10.4743,
+            "standard_deviation_over_pairs": 0.8932,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af_1.jpg",
+                    "psnr": 10.7719
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "psnr": 10.356
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12006_6.jpg",
+                    "psnr": 9.3347
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004.jpg",
+                    "psnr": 11.8263
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "psnr": 9.2932
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "psnr": 11.7533
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "psnr": 10.1975
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l640_3.jpg",
+                    "psnr": 10.2612
+                }
+            ]
+        },
+        {
+            "run": 97,
+            "average_psnr": 10.9653,
+            "standard_deviation_over_pairs": 0.6737,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003.jpg",
+                    "psnr": 10.3646
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "psnr": 10.5927
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "psnr": 12.5166
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "psnr": 11.2706
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16006.jpg",
+                    "psnr": 10.749
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100668977-new-100-dollar-bill-AP.jpg",
+                    "psnr": 10.9416
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "psnr": 11.0778
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "psnr": 10.2094
+                }
+            ]
+        },
+        {
+            "run": 98,
+            "average_psnr": 10.9403,
+            "standard_deviation_over_pairs": 0.8398,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "psnr": 10.9117
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "psnr": 11.3049
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "psnr": 10.3549
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_21.jpg",
+                    "psnr": 9.546
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16007.jpg",
+                    "psnr": 11.0133
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "psnr": 10.2094
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pt5hm6.jpg",
+                    "psnr": 12.2212
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12004.jpg",
+                    "psnr": 11.9607
+                }
+            ]
+        },
+        {
+            "run": 99,
+            "average_psnr": 10.9299,
+            "standard_deviation_over_pairs": 0.729,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "psnr": 11.2208
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "psnr": 10.3934
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "psnr": 10.1606
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "psnr": 10.9945
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "psnr": 11.7279
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "psnr": 10.8775
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "psnr": 9.8875
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "psnr": 12.1774
+                }
+            ]
+        },
+        {
+            "run": 100,
+            "average_psnr": 10.8599,
+            "standard_deviation_over_pairs": 0.8021,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "psnr": 10.0366
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "psnr": 11.3331
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-2017-with-the-portrait-of-president-benjamin-franklin-american-mon-2RDC8JE.jpg",
+                    "psnr": 9.3446
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "psnr": 12.0033
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_770x500.jpg",
+                    "psnr": 11.0905
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "psnr": 11.5779
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "psnr": 10.9003
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "psnr": 10.5927
+                }
+            ]
+        }
+    ]
+}
