@@ -1,2 +1,49 @@
-.png
-.venv
+# Erstatt innholdet i .gitignore
+@"
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated images / outputs
+*.png
+*.jpg
+*.jpeg
+
+# Include these images
+!Datasett/*.png
+!Datasett/*.jpg
+!Datasett/*.jpeg
+
+# Store eksperimentmapper
+Testing different models/
+BaseModelTesting/
+LORA - Training/
+
+# Genererte bildemapper
+rescale_bilder/
+normalized_bilder/
+master_images/
+
+# Modeller og adaptere
+unilm/
+vit-lora-adapter/
+vit-lora-inr/
+
+# Model outputs / experiment artifacts
+smoke_outputs/
+outputs/
+
+# JSON/txt outputs
+blip_captions_*.json
+generated_prompts_*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+"@ | Set-Content .gitignore

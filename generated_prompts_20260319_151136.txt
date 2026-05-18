@@ -1,0 +1,22 @@
+# BLIP-generated prompts for Z-Image Turbo
+# Use these as prompts in ComfyUI
+
+# Source: 367641-alexfas01.jpg
+# [unconditional]
+there is a one hundred dollar bill with a picture of a man ' s face on it
+
+# [conditional: 'a photograph of']
+a photograph of a close up of a one hundred dollar bill
+
+# [conditional: 'a detailed image of']
+a detailed image of a one hundred dollar bill with a man ' s face on it
+
+# [conditional: 'a banknote showing']
+a banknote showing a picture of a man ' s face on it
+
+# [conditional: 'a close-up of a US dollar bill featuring']
+a close - up of a us dollar bill featuring a portrait of ben franklin
+
+# [conditional: 'this image contains']
+this image contains a close up of a one hundred dollar bill
+
