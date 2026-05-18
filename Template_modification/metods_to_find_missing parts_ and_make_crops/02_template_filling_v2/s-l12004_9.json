@@ -1,0 +1,82 @@
+{
+  "image": "s-l12004_9.jpg",
+  "image_path": "I:/Ai prosjekt/IDATG2901-Bacheloropgave/lime in på tamplate v2/s-l12004_9.jpg",
+  "image_size": {
+    "width": 887,
+    "height": 369
+  },
+  "boxes": [
+    {
+      "label": "S-boxs",
+      "bbox": [
+        40,
+        81,
+        248,
+        108
+      ]
+    },
+    {
+      "label": "L-Boxs",
+      "bbox": [
+        40,
+        118,
+        80,
+        146
+      ]
+    },
+    {
+      "label": "S-Boxs2",
+      "bbox": [
+        610,
+        253,
+        819,
+        274
+      ]
+    },
+    {
+      "label": "Underskrift 1",
+      "bbox": [
+        38,
+        240,
+        181,
+        265
+      ]
+    },
+    {
+      "label": "Underskrift 2",
+      "bbox": [
+        33,
+        281,
+        181,
+        296
+      ]
+    },
+    {
+      "label": "L-boxs2",
+      "bbox": [
+        832,
+        55,
+        855,
+        69
+      ]
+    },
+    {
+      "label": "serial",
+      "bbox": [
+        628,
+        310,
+        659,
+        325
+      ]
+    },
+    {
+      "label": "idk",
+      "bbox": [
+        146,
+        45,
+        204,
+        58
+      ]
+    }
+  ]
+}

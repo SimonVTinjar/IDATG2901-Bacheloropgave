@@ -1,0 +1,90 @@
+{
+  "image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+  "image_size": {
+    "width": 1008,
+    "height": 435
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        41,
+        92,
+        279,
+        125
+      ],
+      "value": "LE 70856714 B"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        699,
+        297,
+        939,
+        340
+      ],
+      "value": "LE 70856714 B"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        38,
+        134,
+        87,
+        168
+      ],
+      "value": "E5"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        159,
+        48,
+        223,
+        69
+      ],
+      "value": "FW E 183"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        959,
+        68,
+        991,
+        94
+      ],
+      "value": "E1"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        717,
+        365,
+        752,
+        387
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        42,
+        281,
+        193,
+        309
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        36,
+        321,
+        192,
+        352
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

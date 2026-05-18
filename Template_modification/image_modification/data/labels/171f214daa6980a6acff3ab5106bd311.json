@@ -1,0 +1,90 @@
+{
+  "image": "171f214daa6980a6acff3ab5106bd311.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\171f214daa6980a6acff3ab5106bd311.jpg",
+  "image_size": {
+    "width": 904,
+    "height": 376
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        37,
+        87,
+        245,
+        115
+      ],
+      "value": "LE00000099D"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        625,
+        262,
+        837,
+        293
+      ],
+      "value": "LE00000099D"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        32,
+        127,
+        81,
+        156
+      ],
+      "value": "E5"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        143,
+        42,
+        197,
+        58
+      ],
+      "value": "FW A 408"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        851,
+        49,
+        875,
+        65
+      ],
+      "value": "A1"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        640,
+        313,
+        674,
+        334
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        35,
+        247,
+        176,
+        273
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        32,
+        288,
+        175,
+        308
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+  "image_size": {
+    "width": 1567,
+    "height": 669
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        67,
+        146,
+        432,
+        199
+      ],
+      "value": "PC 05211832 A"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        1090,
+        455,
+        1453,
+        510
+      ],
+      "value": "PC 05211832 A"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        69,
+        199,
+        134,
+        248
+      ],
+      "value": "C3"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        261,
+        73,
+        343,
+        103
+      ],
+      "value": "FW E 111"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        1484,
+        95,
+        1525,
+        127
+      ],
+      "value": "E3"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        1119,
+        560,
+        1167,
+        587
+      ],
+      "value": "2017 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        71,
+        429,
+        304,
+        474
+      ],
+      "value": "Steven T. Mnuchin"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        70,
+        490,
+        293,
+        532
+      ],
+      "value": "Jovita Carranza"
+    }
+  ]
+}

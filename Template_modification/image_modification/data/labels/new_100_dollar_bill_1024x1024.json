@@ -1,0 +1,90 @@
+{
+  "image": "new_100_dollar_bill_1024x1024.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\new_100_dollar_bill_1024x1024.jpg",
+  "image_size": {
+    "width": 692,
+    "height": 308
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        30,
+        66,
+        188,
+        86
+      ],
+      "value": "LL 97025226 D"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        490,
+        212,
+        649,
+        234
+      ],
+      "value": "LL 97025226 D"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        30,
+        93,
+        72,
+        119
+      ],
+      "value": "L12"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        109,
+        30,
+        150,
+        47
+      ],
+      "value": "FW C 245"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        657,
+        35,
+        677,
+        52
+      ],
+      "value": "C2"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        500,
+        254,
+        529,
+        273
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        30,
+        199,
+        129,
+        219
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        26,
+        229,
+        132,
+        247
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

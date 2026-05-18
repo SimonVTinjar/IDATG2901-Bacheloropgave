@@ -1,0 +1,90 @@
+{
+  "image": "multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+  "image_size": {
+    "width": 929,
+    "height": 377
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        42,
+        86,
+        258,
+        114
+      ],
+      "value": "LK 37600912 A"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        640,
+        251,
+        853,
+        282
+      ],
+      "value": "LK 37600912 A"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        42,
+        115,
+        99,
+        146
+      ],
+      "value": "K11"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        152,
+        44,
+        197,
+        62
+      ],
+      "value": "FW A 51"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        867,
+        55,
+        894,
+        73
+      ],
+      "value": "A4"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        648,
+        308,
+        684,
+        326
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        45,
+        240,
+        182,
+        266
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        40,
+        277,
+        183,
+        300
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

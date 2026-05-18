@@ -1,0 +1,90 @@
+{
+  "image": "s-l12007_2.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\s-l12007_2.jpg",
+  "image_size": {
+    "width": 900,
+    "height": 374
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        33,
+        82,
+        244,
+        112
+      ],
+      "value": "MF 93211239 B"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        626,
+        253,
+        837,
+        284
+      ],
+      "value": "MF 93211239 B"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        34,
+        114,
+        77,
+        141
+      ],
+      "value": "F6"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        141,
+        36,
+        194,
+        56
+      ],
+      "value": "FW E 144"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        849,
+        47,
+        875,
+        67
+      ],
+      "value": "E1"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        639,
+        316,
+        669,
+        334
+      ],
+      "value": "2013"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        43,
+        244,
+        163,
+        268
+      ],
+      "value": "Jacob J. Lew"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        29,
+        280,
+        172,
+        304
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

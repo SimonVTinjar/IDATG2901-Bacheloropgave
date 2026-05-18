@@ -1,0 +1,90 @@
+{
+  "image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+  "image_size": {
+    "width": 737,
+    "height": 327
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        39,
+        71,
+        204,
+        100
+      ],
+      "value": "LF 33404145 A"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        509,
+        218,
+        679,
+        246
+      ],
+      "value": "LF 33404145 A"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        41,
+        100,
+        74,
+        124
+      ],
+      "value": "F6"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        126,
+        42,
+        167,
+        58
+      ],
+      "value": "FW G 28"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        692,
+        55,
+        713,
+        71
+      ],
+      "value": "G2"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        521,
+        264,
+        545,
+        282
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        43,
+        204,
+        148,
+        230
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        38,
+        235,
+        150,
+        255
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

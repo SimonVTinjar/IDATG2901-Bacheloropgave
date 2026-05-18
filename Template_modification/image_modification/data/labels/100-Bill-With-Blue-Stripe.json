@@ -1,0 +1,90 @@
+{
+  "image": "100-Bill-With-Blue-Stripe.jpg",
+  "image_path": "I:\\Ai prosjekt\\IDATG2901-Bacheloropgave\\ai-locate diff in template v3\\YOLO traning\\images\\100-Bill-With-Blue-Stripe.jpg",
+  "image_size": {
+    "width": 467,
+    "height": 193
+  },
+  "boxes": [
+    {
+      "label": "serial",
+      "bbox": [
+        28,
+        47,
+        135,
+        63
+      ],
+      "value": "LF00000000A"
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        324,
+        134,
+        436,
+        151
+      ],
+      "value": "LF00000000A"
+    },
+    {
+      "label": "code",
+      "bbox": [
+        29,
+        65,
+        51,
+        80
+      ],
+      "value": "F6"
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        82,
+        26,
+        112,
+        36
+      ],
+      "value": "FW A 29"
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        439,
+        31,
+        455,
+        45
+      ],
+      "value": "A5"
+    },
+    {
+      "label": "series",
+      "bbox": [
+        332,
+        167,
+        351,
+        177
+      ],
+      "value": "2009 A"
+    },
+    {
+      "label": "signature_1",
+      "bbox": [
+        29,
+        128,
+        102,
+        146
+      ],
+      "value": "Timothy F. Geithner"
+    },
+    {
+      "label": "signature_2",
+      "bbox": [
+        25,
+        149,
+        101,
+        165
+      ],
+      "value": "Rosa Gumataotao Rios"
+    }
+  ]
+}

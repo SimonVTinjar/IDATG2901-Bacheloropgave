@@ -1,0 +1,97 @@
+{
+  "image": "Prob Done v2.png",
+  "image_size": {
+    "width": 7200,
+    "height": 2983
+  },
+  "boxes": [
+    {
+      "label": "top_left_code",
+      "bbox": [
+        1139,
+        315,
+        1638,
+        450
+      ],
+      "value": "G631",
+      "confidence": 1.0
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        6828,
+        388,
+        7019,
+        538
+      ],
+      "value": "8",
+      "confidence": 0.9999998807907104
+    },
+    {
+      "label": "code",
+      "bbox": [
+        274,
+        582,
+        1988,
+        911
+      ],
+      "value": "03",
+      "confidence": 0.9126035571098328
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        261,
+        883,
+        675,
+        1107
+      ],
+      "value": "2",
+      "confidence": 0.9544245004653931
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        319,
+        1931,
+        1496,
+        2171
+      ],
+      "value": "Q828",
+      "confidence": 0.9963357448577881
+    },
+    {
+      "label": "serial_2",
+      "bbox": [
+        5035,
+        2046,
+        6661,
+        2260
+      ],
+      "value": "W002532",
+      "confidence": 0.9998140931129456
+    },
+    {
+      "label": "top_left_code",
+      "bbox": [
+        237,
+        2236,
+        1396,
+        2436
+      ],
+      "value": "C631",
+      "confidence": 0.9687327146530151
+    },
+    {
+      "label": "top_right_code",
+      "bbox": [
+        5154,
+        2459,
+        5424,
+        2668
+      ],
+      "value": "8",
+      "confidence": 0.981693685054779
+    }
+  ]
+}
