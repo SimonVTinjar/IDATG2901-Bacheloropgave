@@ -1,11 +1,11 @@
 from PIL import Image
 from pathlib import Path
 
-input_dir = Path("full")          # mappa med dine 172 bilder
-output_dir = Path("full_clean_384x160") # ny mappe
+input_dir = Path("F:\\BachmapperMedBilder\\Datasett\\170BilderDatasettet")          # mappa med dine 172 bilder
+output_dir = Path("F:\\BachmapperMedBilder\\Datasett\\170_usd_391x366") # ny mappe
 output_dir.mkdir(exist_ok=True)
 
-target_size = (384, 192)  # (width, height)
+target_size = (391, 366)  # (width, height)
 
 valid_ext = [".png", ".jpg", ".jpeg"]
 

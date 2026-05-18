@@ -1,0 +1,4718 @@
+{
+    "method": "Random pairing SSIM",
+    "num_runs": 100,
+    "pairs_per_run": 8,
+    "total_pair_comparisons": 800,
+    "target_size": {
+        "width": 404,
+        "height": 171
+    },
+    "random_seed": 42,
+    "generated_folder": "F:\\BachmapperMedBilder\\Generert\\Upscaled\\Scaledto404x171",
+    "real_folder": "F:\\BachmapperMedBilder\\Datasett\\170dataset_404x171",
+    "overall_average_ssim": 0.1275,
+    "overall_standard_deviation_over_all_pairs": 0.0415,
+    "result": "0.1275 ± 0.0415",
+    "runs": [
+        {
+            "run": 1,
+            "average_ssim": 0.1283,
+            "standard_deviation_over_pairs": 0.0389,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "ssim": 0.2008
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "ssim": 0.1265
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16006.jpg",
+                    "ssim": 0.0545
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.116
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "ssim": 0.1318
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-bill-front.png",
+                    "ssim": 0.1419
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.1046
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "ssim": 0.1505
+                }
+            ]
+        },
+        {
+            "run": 2,
+            "average_ssim": 0.1042,
+            "standard_deviation_over_pairs": 0.0314,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "ssim": 0.169
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1229
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "ssim": 0.0885
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "-dollars-bill-banknote-old-american-money-banknote-vintage-retro-usd-2JTJ214.jpg",
+                    "ssim": 0.0886
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0853
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.116
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "ssim": 0.1077
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0558
+                }
+            ]
+        },
+        {
+            "run": 3,
+            "average_ssim": 0.1543,
+            "standard_deviation_over_pairs": 0.0652,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.jpg",
+                    "ssim": 0.0994
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1600_10.jpg",
+                    "ssim": 0.0991
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.2087
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1678
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12003_9.jpg",
+                    "ssim": 0.1207
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.183
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "ssim": 0.2823
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-png-image_10178719.png",
+                    "ssim": 0.0737
+                }
+            ]
+        },
+        {
+            "run": 4,
+            "average_ssim": 0.1342,
+            "standard_deviation_over_pairs": 0.0551,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1566
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "ssim": 0.095
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "ssim": 0.1995
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "ssim": 0.073
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "ssim": 0.0407
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_190283098-stock-photo-old-and-new-100-dollar.jpg",
+                    "ssim": 0.1404
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "ssim": 0.1689
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1993
+                }
+            ]
+        },
+        {
+            "run": 5,
+            "average_ssim": 0.1281,
+            "standard_deviation_over_pairs": 0.0418,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "ssim": 0.1373
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "ssim": 0.129
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "ssim": 0.0748
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.1017
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.0912
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e2.jpg",
+                    "ssim": 0.2121
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "ssim": 0.1107
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.1683
+                }
+            ]
+        },
+        {
+            "run": 6,
+            "average_ssim": 0.1403,
+            "standard_deviation_over_pairs": 0.0537,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "ssim": 0.1995
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "ssim": 0.1422
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "ssim": 0.2112
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "ssim": 0.202
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "ssim": 0.1193
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "ssim": 0.0808
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "ssim": 0.07
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "ssim": 0.0978
+                }
+            ]
+        },
+        {
+            "run": 7,
+            "average_ssim": 0.1387,
+            "standard_deviation_over_pairs": 0.0409,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.1004
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc91.jpg",
+                    "ssim": 0.1839
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.1792
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "ssim": 0.0804
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.0868
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "ssim": 0.1569
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120019.jpg",
+                    "ssim": 0.1407
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120011.jpg",
+                    "ssim": 0.1814
+                }
+            ]
+        },
+        {
+            "run": 8,
+            "average_ssim": 0.1311,
+            "standard_deviation_over_pairs": 0.0421,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0558
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "ssim": 0.1233
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0861
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.1526
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.1518
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "ssim": 0.1592
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "ssim": 0.1205
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1993
+                }
+            ]
+        },
+        {
+            "run": 9,
+            "average_ssim": 0.1286,
+            "standard_deviation_over_pairs": 0.0383,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l640_3.jpg",
+                    "ssim": 0.11
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "ssim": 0.1033
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "24100-E_28202229.jpg",
+                    "ssim": 0.1948
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "ssim": 0.1526
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "ssim": 0.1273
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0553
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.1408
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "ssim": 0.1446
+                }
+            ]
+        },
+        {
+            "run": 10,
+            "average_ssim": 0.1181,
+            "standard_deviation_over_pairs": 0.0337,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.1067
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "ssim": 0.1059
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "82512021_438.jpg",
+                    "ssim": 0.1631
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.1257
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "ssim": 0.0829
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "ssim": 0.1431
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "ssim": 0.0602
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "ssim": 0.1569
+                }
+            ]
+        },
+        {
+            "run": 11,
+            "average_ssim": 0.1056,
+            "standard_deviation_over_pairs": 0.0233,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "ssim": 0.1135
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "ssim": 0.1032
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "ssim": 0.1483
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "ssim": 0.1086
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "118726723.jpg",
+                    "ssim": 0.1094
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "ssim": 0.058
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "ssim": 0.0938
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.1097
+                }
+            ]
+        },
+        {
+            "run": 12,
+            "average_ssim": 0.1393,
+            "standard_deviation_over_pairs": 0.0349,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "ssim": 0.202
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "ssim": 0.1058
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "ssim": 0.0956
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "ssim": 0.1498
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12008_9.jpg",
+                    "ssim": 0.1606
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "ssim": 0.125
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "ssim": 0.1695
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.1057
+                }
+            ]
+        },
+        {
+            "run": 13,
+            "average_ssim": 0.1538,
+            "standard_deviation_over_pairs": 0.0529,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "ssim": 0.1168
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "ssim": 0.1109
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "ssim": 0.1607
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "ssim": 0.2178
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "118726723.jpg",
+                    "ssim": 0.227
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "ssim": 0.0625
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "ssim": 0.145
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "ssim": 0.1895
+                }
+            ]
+        },
+        {
+            "run": 14,
+            "average_ssim": 0.1305,
+            "standard_deviation_over_pairs": 0.0403,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.1747
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "ssim": 0.1574
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.0812
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "ssim": 0.1557
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2013-100-dollar-frn-lead.tmb-slide-1900.jpg",
+                    "ssim": 0.124
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.1061
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12002.jpg",
+                    "ssim": 0.1795
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "ssim": 0.0655
+                }
+            ]
+        },
+        {
+            "run": 15,
+            "average_ssim": 0.1292,
+            "standard_deviation_over_pairs": 0.039,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.1579
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.163
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "ssim": 0.1442
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "ssim": 0.123
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.0868
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "ssim": 0.0587
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc91.jpg",
+                    "ssim": 0.1839
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.116
+                }
+            ]
+        },
+        {
+            "run": 16,
+            "average_ssim": 0.1073,
+            "standard_deviation_over_pairs": 0.0442,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "ssim": 0.1112
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.1442
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "ssim": 0.192
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.056
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "ssim": 0.1031
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "ssim": 0.0481
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.0812
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "ssim": 0.1225
+                }
+            ]
+        },
+        {
+            "run": 17,
+            "average_ssim": 0.1168,
+            "standard_deviation_over_pairs": 0.034,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.2006
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.1218
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "ssim": 0.109
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.1245
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "ssim": 0.1014
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "ssim": 0.0937
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "ssim": 0.0869
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0963
+                }
+            ]
+        },
+        {
+            "run": 18,
+            "average_ssim": 0.1121,
+            "standard_deviation_over_pairs": 0.0429,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-front-2013-present.jpg.jpg",
+                    "ssim": 0.1723
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "ssim": 0.1569
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004_9.jpg",
+                    "ssim": 0.154
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "ssim": 0.1132
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "ssim": 0.0798
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0861
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100668977-new-100-dollar-bill-AP.jpg",
+                    "ssim": 0.0391
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_2.jpg",
+                    "ssim": 0.0955
+                }
+            ]
+        },
+        {
+            "run": 19,
+            "average_ssim": 0.125,
+            "standard_deviation_over_pairs": 0.0486,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "ssim": 0.1771
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "ssim": 0.0942
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.1792
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "ssim": 0.138
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.0766
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-dollar-bills-on-white-background-isolated-business-money-concept-template-R986PW.jpg",
+                    "ssim": 0.1182
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "ssim": 0.176
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "ssim": 0.0407
+                }
+            ]
+        },
+        {
+            "run": 20,
+            "average_ssim": 0.1505,
+            "standard_deviation_over_pairs": 0.0403,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_200776148-stock-photo-wallpaper-background-american-money-hundred.jpg",
+                    "ssim": 0.1414
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.1004
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120010_6.jpg",
+                    "ssim": 0.1063
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "ssim": 0.1727
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "ssim": 0.1165
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "ssim": 0.2286
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_9.jpg",
+                    "ssim": 0.1678
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "ssim": 0.1699
+                }
+            ]
+        },
+        {
+            "run": 21,
+            "average_ssim": 0.1368,
+            "standard_deviation_over_pairs": 0.0445,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "ssim": 0.142
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "ssim": 0.1532
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "118726723.jpg",
+                    "ssim": 0.2121
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.101
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "ssim": 0.1391
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "ssim": 0.0805
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0816
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "ssim": 0.1851
+                }
+            ]
+        },
+        {
+            "run": 22,
+            "average_ssim": 0.1238,
+            "standard_deviation_over_pairs": 0.0366,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "54936924-new-100-u-s-dollar-banknote.jpg",
+                    "ssim": 0.126
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.2006
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1016
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.1579
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.0867
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0963
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "ssim": 0.0926
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "ssim": 0.1285
+                }
+            ]
+        },
+        {
+            "run": 23,
+            "average_ssim": 0.1189,
+            "standard_deviation_over_pairs": 0.0576,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "ssim": 0.1527
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.0364
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.0785
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.1247
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "ssim": 0.1011
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1939
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "ssim": 0.059
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "ssim": 0.2047
+                }
+            ]
+        },
+        {
+            "run": 24,
+            "average_ssim": 0.1308,
+            "standard_deviation_over_pairs": 0.0512,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "24100-E_28202229.jpg",
+                    "ssim": 0.1948
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "ssim": 0.0651
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "61pzAkLeHTL._AC_UY1000_.jpg",
+                    "ssim": 0.0883
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "ssim": 0.2008
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "ssim": 0.1791
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "ssim": 0.1391
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "ssim": 0.0922
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.0867
+                }
+            ]
+        },
+        {
+            "run": 25,
+            "average_ssim": 0.1311,
+            "standard_deviation_over_pairs": 0.0469,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "bbbdba9f0f25280ffa16e08e19202bc8.jpg",
+                    "ssim": 0.2333
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.163
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "ssim": 0.121
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "ssim": 0.1413
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "ssim": 0.0874
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.0812
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "ssim": 0.1298
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0919
+                }
+            ]
+        },
+        {
+            "run": 26,
+            "average_ssim": 0.1202,
+            "standard_deviation_over_pairs": 0.0403,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120012_1.jpg",
+                    "ssim": 0.0992
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.1335
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "ssim": 0.1193
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0553
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.1376
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1839
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "ssim": 0.1597
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "ssim": 0.0731
+                }
+            ]
+        },
+        {
+            "run": 27,
+            "average_ssim": 0.1373,
+            "standard_deviation_over_pairs": 0.0456,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.1354
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "ssim": 0.1568
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "ssim": 0.202
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "ssim": 0.1177
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "ssim": 0.1264
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "118726723.jpg",
+                    "ssim": 0.2029
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "ssim": 0.0651
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l640_3.jpg",
+                    "ssim": 0.0918
+                }
+            ]
+        },
+        {
+            "run": 28,
+            "average_ssim": 0.1353,
+            "standard_deviation_over_pairs": 0.0281,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "ssim": 0.1234
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.1004
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "ssim": 0.1499
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.1431
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.1477
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "ssim": 0.1386
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.jpg",
+                    "ssim": 0.0923
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "ssim": 0.1871
+                }
+            ]
+        },
+        {
+            "run": 29,
+            "average_ssim": 0.1565,
+            "standard_deviation_over_pairs": 0.0573,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1623
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "ssim": 0.1312
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "ssim": 0.1478
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12009.jpg",
+                    "ssim": 0.1586
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.1789
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "background-of-100-dollar-bills-money-american-hundred-dollar-bi-P4DTWY.jpg",
+                    "ssim": 0.2539
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pexels-photo-14820454.jpeg",
+                    "ssim": 0.0349
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12002.jpg",
+                    "ssim": 0.1844
+                }
+            ]
+        },
+        {
+            "run": 30,
+            "average_ssim": 0.1119,
+            "standard_deviation_over_pairs": 0.0237,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "ssim": 0.131
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "ssim": 0.084
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.1259
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "ssim": 0.0802
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "ssim": 0.121
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "ssim": 0.1496
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.0867
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "ssim": 0.1166
+                }
+            ]
+        },
+        {
+            "run": 31,
+            "average_ssim": 0.1384,
+            "standard_deviation_over_pairs": 0.0469,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "ssim": 0.1662
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "ssim": 0.1478
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "ssim": 0.0817
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "ssim": 0.1026
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "bbbdba9f0f25280ffa16e08e19202bc8.jpg",
+                    "ssim": 0.2232
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002.jpg",
+                    "ssim": 0.1847
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "ssim": 0.1065
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.0947
+                }
+            ]
+        },
+        {
+            "run": 32,
+            "average_ssim": 0.1358,
+            "standard_deviation_over_pairs": 0.0449,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.0775
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "ssim": 0.1464
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "ssim": 0.1019
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "ssim": 0.1895
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "ssim": 0.1578
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.0785
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "ssim": 0.1298
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "ssim": 0.2047
+                }
+            ]
+        },
+        {
+            "run": 33,
+            "average_ssim": 0.1336,
+            "standard_deviation_over_pairs": 0.0268,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1566
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.1657
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "ssim": 0.1501
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "ssim": 0.1454
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "ssim": 0.0748
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.1244
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "ssim": 0.1336
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "ssim": 0.1185
+                }
+            ]
+        },
+        {
+            "run": 34,
+            "average_ssim": 0.1199,
+            "standard_deviation_over_pairs": 0.0357,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "stsmall845x845-pad1000x1000f8f8f8.jpg",
+                    "ssim": 0.1324
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "-dollars-bill-banknote-old-american-money-banknote-vintage-retro-usd-2JTJ214.jpg",
+                    "ssim": 0.0448
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.1579
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.1511
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "ssim": 0.1116
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af_1.jpg",
+                    "ssim": 0.1041
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12008_9.jpg",
+                    "ssim": 0.156
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004.jpg",
+                    "ssim": 0.1015
+                }
+            ]
+        },
+        {
+            "run": 35,
+            "average_ssim": 0.1307,
+            "standard_deviation_over_pairs": 0.0429,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.1596
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "ssim": 0.0615
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "ssim": 0.131
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120019.jpg",
+                    "ssim": 0.1575
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "ssim": 0.1662
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "ssim": 0.1571
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0553
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "ssim": 0.1574
+                }
+            ]
+        },
+        {
+            "run": 36,
+            "average_ssim": 0.1267,
+            "standard_deviation_over_pairs": 0.0401,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "ssim": 0.1851
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "ssim": 0.112
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "ssim": 0.1035
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "ssim": 0.1034
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "ssim": 0.108
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "ssim": 0.1477
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+                    "ssim": 0.1878
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.0664
+                }
+            ]
+        },
+        {
+            "run": 37,
+            "average_ssim": 0.1336,
+            "standard_deviation_over_pairs": 0.0207,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "ssim": 0.1586
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "ssim": 0.1536
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.1271
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "ssim": 0.1004
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.1313
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "ssim": 0.1207
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "ssim": 0.1615
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "background-of-100-dollar-bills-photo_1.jpg",
+                    "ssim": 0.1156
+                }
+            ]
+        },
+        {
+            "run": 38,
+            "average_ssim": 0.1243,
+            "standard_deviation_over_pairs": 0.0547,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "ssim": 0.2244
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-2017-with-the-portrait-of-president-benjamin-franklin-american-mon-2RDC8JE.jpg",
+                    "ssim": 0.0897
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "ssim": 0.0696
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.169
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "ssim": 0.1738
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_10.jpg",
+                    "ssim": 0.102
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "ssim": 0.0571
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "ssim": 0.1086
+                }
+            ]
+        },
+        {
+            "run": 39,
+            "average_ssim": 0.107,
+            "standard_deviation_over_pairs": 0.0403,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "ssim": 0.1182
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "ssim": 0.1207
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "ssim": 0.1166
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_5.jpg",
+                    "ssim": 0.06
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "ssim": 0.1014
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-banknotes-dollars-money-wallpaper-preview.jpg",
+                    "ssim": 0.1887
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-bill-american-100-dollar-american-dollars-cash-money-vertical-shot-2EYTJ2G.jpg",
+                    "ssim": 0.1046
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16006.jpg",
+                    "ssim": 0.0461
+                }
+            ]
+        },
+        {
+            "run": 40,
+            "average_ssim": 0.1358,
+            "standard_deviation_over_pairs": 0.0461,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_47217199-stock-illustration-100-u-s-dollars-banknote.jpg",
+                    "ssim": 0.1926
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1993
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "ssim": 0.0859
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "ssim": 0.1611
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.1218
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_770x500.jpg",
+                    "ssim": 0.1605
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "ssim": 0.0885
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "ssim": 0.0763
+                }
+            ]
+        },
+        {
+            "run": 41,
+            "average_ssim": 0.1468,
+            "standard_deviation_over_pairs": 0.0354,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "ssim": 0.0862
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "ssim": 0.1139
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "118726723.jpg",
+                    "ssim": 0.2029
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollar-bills-on-white-background-isolated-business-money-concept-template-R986PW.jpg",
+                    "ssim": 0.1574
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-bill-front.png",
+                    "ssim": 0.1238
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.153
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "background-of-100-dollar-bills-photo2.jpg",
+                    "ssim": 0.1526
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-Dollar-Bill.jpg",
+                    "ssim": 0.1844
+                }
+            ]
+        },
+        {
+            "run": 42,
+            "average_ssim": 0.1329,
+            "standard_deviation_over_pairs": 0.0309,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "ssim": 0.1689
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "ssim": 0.1489
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "ssim": 0.1477
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.1027
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1371
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "82512021_438.jpg",
+                    "ssim": 0.1591
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "ssim": 0.1308
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.0678
+                }
+            ]
+        },
+        {
+            "run": 43,
+            "average_ssim": 0.1312,
+            "standard_deviation_over_pairs": 0.0344,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16006.jpg",
+                    "ssim": 0.1334
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "ssim": 0.1252
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.101
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "ssim": 0.1319
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "ssim": 0.0817
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "ssim": 0.1103
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "ssim": 0.1944
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "ssim": 0.1717
+                }
+            ]
+        },
+        {
+            "run": 44,
+            "average_ssim": 0.1056,
+            "standard_deviation_over_pairs": 0.0442,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "ssim": 0.0689
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "ssim": 0.1148
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.0601
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002.jpg",
+                    "ssim": 0.1777
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "p83uwuavw5571.jpg",
+                    "ssim": 0.0935
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.1028
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_9.jpg",
+                    "ssim": 0.1713
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0558
+                }
+            ]
+        },
+        {
+            "run": 45,
+            "average_ssim": 0.1333,
+            "standard_deviation_over_pairs": 0.0182,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "ssim": 0.1225
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16006.jpg",
+                    "ssim": 0.1566
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "ssim": 0.112
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "ssim": 0.1579
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.1473
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "ssim": 0.1374
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "ssim": 0.108
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "ssim": 0.125
+                }
+            ]
+        },
+        {
+            "run": 46,
+            "average_ssim": 0.1259,
+            "standard_deviation_over_pairs": 0.0361,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "ssim": 0.1709
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "9302c0e8f73c99caf43b9fc804070cb2.jpg",
+                    "ssim": 0.1346
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "ssim": 0.1328
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "ssim": 0.1202
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "ssim": 0.0733
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "depositphotos_47217199-stock-illustration-100-u-s-dollars-banknote.jpg",
+                    "ssim": 0.1855
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "ssim": 0.0993
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank_4.jpg",
+                    "ssim": 0.0906
+                }
+            ]
+        },
+        {
+            "run": 47,
+            "average_ssim": 0.097,
+            "standard_deviation_over_pairs": 0.031,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "ssim": 0.0649
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "ssim": 0.1278
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "depositphotos_200776148-stock-photo-wallpaper-background-american-money-hundred.jpg",
+                    "ssim": 0.1263
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "ssim": 0.1382
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "ssim": 0.1117
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "ssim": 0.0587
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-Bill-With-Blue-Stripe.jpg",
+                    "ssim": 0.0888
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.0599
+                }
+            ]
+        },
+        {
+            "run": 48,
+            "average_ssim": 0.1181,
+            "standard_deviation_over_pairs": 0.0269,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.101
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "ssim": 0.0785
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.jpg",
+                    "ssim": 0.0994
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.1278
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "ssim": 0.1652
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "ssim": 0.1004
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "ssim": 0.1482
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.1244
+                }
+            ]
+        },
+        {
+            "run": 49,
+            "average_ssim": 0.1311,
+            "standard_deviation_over_pairs": 0.0338,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "ssim": 0.0866
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.1635
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "american-dollars-cash-money-one-hundred-dollar-banknotes-2WD5N49.jpg",
+                    "ssim": 0.1436
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "ssim": 0.1568
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "ssim": 0.1471
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "ssim": 0.064
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "ssim": 0.134
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1536
+                }
+            ]
+        },
+        {
+            "run": 50,
+            "average_ssim": 0.1096,
+            "standard_deviation_over_pairs": 0.0248,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "ssim": 0.1427
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "ssim": 0.1014
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "ssim": 0.086
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "ssim": 0.1206
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1032
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "ssim": 0.1527
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.0848
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "ssim": 0.0854
+                }
+            ]
+        },
+        {
+            "run": 51,
+            "average_ssim": 0.1374,
+            "standard_deviation_over_pairs": 0.0445,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004_9.jpg",
+                    "ssim": 0.1606
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "ssim": 0.1025
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "ssim": 0.0951
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "american-dollars-cash-money-one-hundred-dollar-banknotes-2WD5N49.jpg",
+                    "ssim": 0.1299
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "ssim": 0.0978
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_41814685-stock-photo-new-one-hundred-dollar-bill_1.jpg",
+                    "ssim": 0.2348
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1147
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "ssim": 0.1636
+                }
+            ]
+        },
+        {
+            "run": 52,
+            "average_ssim": 0.1364,
+            "standard_deviation_over_pairs": 0.0268,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "ssim": 0.1483
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_41814683-stock-photo-new-one-hundred-dollar-bill.jpg",
+                    "ssim": 0.163
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "360_F_61745680_pD0TLQwUINR5dYWEsSaG1wLrMOySZruF.jpg",
+                    "ssim": 0.1713
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "ssim": 0.11
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "ssim": 0.0884
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.117
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.1388
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "ssim": 0.1543
+                }
+            ]
+        },
+        {
+            "run": 53,
+            "average_ssim": 0.1455,
+            "standard_deviation_over_pairs": 0.0423,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.6141041859_7r3v.jpg",
+                    "ssim": 0.1182
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "ssim": 0.0942
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "ssim": 0.1298
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "ssim": 0.1819
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "ssim": 0.1116
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "ssim": 0.1633
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "bbbdba9f0f25280ffa16e08e19202bc8.jpg",
+                    "ssim": 0.2333
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "ssim": 0.1317
+                }
+            ]
+        },
+        {
+            "run": 54,
+            "average_ssim": 0.1088,
+            "standard_deviation_over_pairs": 0.0303,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0921
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "ssim": 0.1431
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.0812
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "ssim": 0.125
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.151
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "ssim": 0.0731
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "ssim": 0.073
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "ssim": 0.1318
+                }
+            ]
+        },
+        {
+            "run": 55,
+            "average_ssim": 0.1349,
+            "standard_deviation_over_pairs": 0.0405,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "ssim": 0.1371
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1282
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "ssim": 0.0937
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "background-of-100-dollar-bills-money-american-hundred-dollar-bi-P4DTWY.jpg",
+                    "ssim": 0.2052
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120016_2.jpg",
+                    "ssim": 0.1511
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1371
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "ssim": 0.0623
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "ssim": 0.1648
+                }
+            ]
+        },
+        {
+            "run": 56,
+            "average_ssim": 0.1405,
+            "standard_deviation_over_pairs": 0.0579,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "ssim": 0.1498
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "ssim": 0.2823
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "ssim": 0.1164
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "ssim": 0.1394
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "ssim": 0.1305
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "ssim": 0.108
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "ssim": 0.072
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.1257
+                }
+            ]
+        },
+        {
+            "run": 57,
+            "average_ssim": 0.1419,
+            "standard_deviation_over_pairs": 0.0486,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-banknotes-dollars-money-wallpaper-preview.jpg",
+                    "ssim": 0.203
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.0599
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "ssim": 0.1907
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "ssim": 0.0889
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.106
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-Dollar-Bill.jpg",
+                    "ssim": 0.1844
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "ssim": 0.1497
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-dollar-bills-on-white-background-isolated-business-money-concept-template-R986PW.jpg",
+                    "ssim": 0.1522
+                }
+            ]
+        },
+        {
+            "run": 58,
+            "average_ssim": 0.1215,
+            "standard_deviation_over_pairs": 0.0558,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.0577
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "ssim": 0.0634
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "ssim": 0.1211
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.1271
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "ssim": 0.2439
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "ssim": 0.1538
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "ssim": 0.121
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "82512021_438.jpg",
+                    "ssim": 0.0836
+                }
+            ]
+        },
+        {
+            "run": 59,
+            "average_ssim": 0.1432,
+            "standard_deviation_over_pairs": 0.0443,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.0702
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "ssim": 0.1374
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "ssim": 0.1871
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_41814685-stock-photo-new-one-hundred-dollar-bill_1.jpg",
+                    "ssim": 0.2232
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "ssim": 0.1318
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1101
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "ssim": 0.1228
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "ssim": 0.1628
+                }
+            ]
+        },
+        {
+            "run": 60,
+            "average_ssim": 0.1375,
+            "standard_deviation_over_pairs": 0.0321,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_5.jpg",
+                    "ssim": 0.1216
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_12.jpg",
+                    "ssim": 0.0695
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "ssim": 0.1117
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.1577
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "ssim": 0.1649
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "background-of-100-dollar-bills-photo_1.jpg",
+                    "ssim": 0.1548
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "desktop-wallpaper-of-100-dollar-bill-gallery-stack-of-new-100-dollar-bills.jpg",
+                    "ssim": 0.1497
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_2.jpg",
+                    "ssim": 0.1705
+                }
+            ]
+        },
+        {
+            "run": 61,
+            "average_ssim": 0.1086,
+            "standard_deviation_over_pairs": 0.0355,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "ssim": 0.1091
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.1048
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "ssim": 0.192
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.0812
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.0663
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "ssim": 0.0862
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1147
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004.jpg",
+                    "ssim": 0.1146
+                }
+            ]
+        },
+        {
+            "run": 62,
+            "average_ssim": 0.1181,
+            "standard_deviation_over_pairs": 0.0465,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "ssim": 0.1121
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12004_6.jpg",
+                    "ssim": 0.0395
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.2091
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.1408
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.0785
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "ssim": 0.1025
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "ssim": 0.1391
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "ssim": 0.123
+                }
+            ]
+        },
+        {
+            "run": 63,
+            "average_ssim": 0.1281,
+            "standard_deviation_over_pairs": 0.0485,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "ssim": 0.1146
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "ssim": 0.2244
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1443
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "ssim": 0.1614
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.1354
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "ssim": 0.1112
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "61pzAkLeHTL._AC_UY1000_.jpg",
+                    "ssim": 0.0747
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "ssim": 0.0587
+                }
+            ]
+        },
+        {
+            "run": 64,
+            "average_ssim": 0.1306,
+            "standard_deviation_over_pairs": 0.0212,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "depositphotos_200776148-stock-photo-wallpaper-background-american-money-hundred.jpg",
+                    "ssim": 0.1465
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16004.jpg",
+                    "ssim": 0.0959
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "ssim": 0.1391
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_190283098-stock-photo-old-and-new-100-dollar.jpg",
+                    "ssim": 0.1379
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120012_1.jpg",
+                    "ssim": 0.0992
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1566
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+                    "ssim": 0.1222
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "ssim": 0.1471
+                }
+            ]
+        },
+        {
+            "run": 65,
+            "average_ssim": 0.1436,
+            "standard_deviation_over_pairs": 0.0406,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "ssim": 0.1737
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "ssim": 0.1756
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12009_3.jpg",
+                    "ssim": 0.0538
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.1218
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "049bab745e400e9345abb666d3bf92f5.jpg",
+                    "ssim": 0.1897
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc912.jpg",
+                    "ssim": 0.1488
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.1259
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "stsmall845x845-pad1000x1000f8f8f8.jpg",
+                    "ssim": 0.1592
+                }
+            ]
+        },
+        {
+            "run": 66,
+            "average_ssim": 0.1262,
+            "standard_deviation_over_pairs": 0.0399,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "ssim": 0.1177
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "ssim": 0.1014
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1766
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "multicolor-ottomanson-area-rugs-stk3112-31x79-64_1000_2.jpg",
+                    "ssim": 0.1912
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "ssim": 0.1117
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "ssim": 0.0551
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.1244
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-dollar-bill-showcasing-american-moneys-rich-history-photo-image_48424588.jpg",
+                    "ssim": 0.1319
+                }
+            ]
+        },
+        {
+            "run": 67,
+            "average_ssim": 0.1432,
+            "standard_deviation_over_pairs": 0.043,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "ssim": 0.1633
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.1028
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.0903
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e.jpg",
+                    "ssim": 0.1231
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "il_fullxfull.5637700626_eobc.jpg",
+                    "ssim": 0.2244
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100-bill-front.png",
+                    "ssim": 0.1032
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1678
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "ssim": 0.1709
+                }
+            ]
+        },
+        {
+            "run": 68,
+            "average_ssim": 0.144,
+            "standard_deviation_over_pairs": 0.0388,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "ssim": 0.1553
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "9302c0e8f73c99caf43b9fc804070cb2.jpg",
+                    "ssim": 0.1538
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "84e1f242472a7cab16df28b91172b85e2.jpg",
+                    "ssim": 0.2121
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "ssim": 0.1086
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "ssim": 0.1028
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600_15.jpg",
+                    "ssim": 0.1767
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.0886
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_3.jpg",
+                    "ssim": 0.1543
+                }
+            ]
+        },
+        {
+            "run": 69,
+            "average_ssim": 0.1124,
+            "standard_deviation_over_pairs": 0.0454,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "ssim": 0.208
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "00000094.png",
+                    "ssim": 0.0836
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "ssim": 0.1113
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "ssim": 0.1035
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "ssim": 0.057
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0861
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "ssim": 0.0906
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.1596
+                }
+            ]
+        },
+        {
+            "run": 70,
+            "average_ssim": 0.1356,
+            "standard_deviation_over_pairs": 0.0339,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pt5hm6.jpg",
+                    "ssim": 0.0904
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "ssim": 0.1221
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.1431
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "ssim": 0.1105
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1993
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16004.jpg",
+                    "ssim": 0.1065
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "one-hundred-dollars-one-dollar-closeup-white-background-close-up-38340033.jpg",
+                    "ssim": 0.1726
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "ssim": 0.1401
+                }
+            ]
+        },
+        {
+            "run": 71,
+            "average_ssim": 0.1225,
+            "standard_deviation_over_pairs": 0.034,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.1207
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_12.jpg",
+                    "ssim": 0.0695
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "eup-macro-fragment-united-states-hundred-dollars-money-bill-close-up-2BC4JTP.jpg",
+                    "ssim": 0.101
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "ssim": 0.1907
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "ssim": 0.1474
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "ssim": 0.1116
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.1028
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "american-one-hundred-us-dollar-note-on-a-white-background-F06R8W.jpg",
+                    "ssim": 0.1364
+                }
+            ]
+        },
+        {
+            "run": 72,
+            "average_ssim": 0.1194,
+            "standard_deviation_over_pairs": 0.0444,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12002_9.jpg",
+                    "ssim": 0.126
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "ssim": 0.0625
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "ssim": 0.1234
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pexels-photo-14820454.jpeg",
+                    "ssim": 0.0847
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "ssim": 0.1635
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.0577
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "ssim": 0.1496
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "ssim": 0.1876
+                }
+            ]
+        },
+        {
+            "run": 73,
+            "average_ssim": 0.1319,
+            "standard_deviation_over_pairs": 0.0322,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "ssim": 0.2012
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "ssim": 0.1121
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "il_fullxfull.4920179029_phx7.jpg",
+                    "ssim": 0.1457
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "new_100_dollar_bill_770x500.jpg",
+                    "ssim": 0.086
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1162
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12004_12.jpg",
+                    "ssim": 0.1294
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "ssim": 0.1155
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc912.jpg",
+                    "ssim": 0.1488
+                }
+            ]
+        },
+        {
+            "run": 74,
+            "average_ssim": 0.1569,
+            "standard_deviation_over_pairs": 0.0276,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.199
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.1874
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "ssim": 0.1283
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.14
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "ssim": 0.1535
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16005_3.jpg",
+                    "ssim": 0.1492
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1813
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l4003_1.png",
+                    "ssim": 0.1165
+                }
+            ]
+        },
+        {
+            "run": 75,
+            "average_ssim": 0.12,
+            "standard_deviation_over_pairs": 0.0199,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "ssim": 0.0891
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "ssim": 0.1592
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.1028
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12004.jpg",
+                    "ssim": 0.1146
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "ssim": 0.1336
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "ssim": 0.1139
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.1308
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1162
+                }
+            ]
+        },
+        {
+            "run": 76,
+            "average_ssim": 0.1228,
+            "standard_deviation_over_pairs": 0.0414,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1200_9.jpg",
+                    "ssim": 0.1635
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "54936924-new-100-u-s-dollar-banknote.jpg",
+                    "ssim": 0.1706
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-2017-with-the-portrait-of-president-benjamin-franklin-american-mon-2RDC8JE.jpg",
+                    "ssim": 0.0811
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12003_6.jpg",
+                    "ssim": 0.14
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "ssim": 0.1644
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.0664
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120015_1.jpg",
+                    "ssim": 0.0696
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1268
+                }
+            ]
+        },
+        {
+            "run": 77,
+            "average_ssim": 0.1265,
+            "standard_deviation_over_pairs": 0.0431,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100-dollar-bill-benjamin-franklin-1678069651826.jpg",
+                    "ssim": 0.182
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "ssim": 0.1644
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "ssim": 0.0753
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.1596
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "ssim": 0.1034
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "p83uwuavw5571.jpg",
+                    "ssim": 0.1019
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "ssim": 0.1633
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l16002_18.jpg",
+                    "ssim": 0.0623
+                }
+            ]
+        },
+        {
+            "run": 78,
+            "average_ssim": 0.1428,
+            "standard_deviation_over_pairs": 0.0276,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-R64N39.jpg",
+                    "ssim": 0.0937
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "ssim": 0.1525
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l640_3.jpg",
+                    "ssim": 0.1037
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l4003_1.png",
+                    "ssim": 0.1458
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.151
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-Dollar-Bill.jpg",
+                    "ssim": 0.175
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-front-2013-present.jpg.jpg",
+                    "ssim": 0.1729
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_1143x.jpg",
+                    "ssim": 0.1477
+                }
+            ]
+        },
+        {
+            "run": 79,
+            "average_ssim": 0.1296,
+            "standard_deviation_over_pairs": 0.0306,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "depositphotos_190283098-stock-photo-old-and-new-100-dollar.jpg",
+                    "ssim": 0.1404
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "ssim": 0.1414
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "ssim": 0.1025
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.1499
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "-20USA2010020Dollars20Banknote2C202009A2C20P-536z2C20Used2C20ReplacementStar.jpg",
+                    "ssim": 0.1425
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "ssim": 0.1206
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "ssim": 0.1727
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16002_1.jpg",
+                    "ssim": 0.0664
+                }
+            ]
+        },
+        {
+            "run": 80,
+            "average_ssim": 0.1342,
+            "standard_deviation_over_pairs": 0.05,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "depositphotos_190283120-stock-photo-new-100-dollar-bill-united.jpg",
+                    "ssim": 0.1074
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1153
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "ssim": 0.1392
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100-Bill-With-Blue-Stripe.jpg",
+                    "ssim": 0.0812
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "ssim": 0.2109
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "desktop-wallpaper-new-100-dollar-bill-fake-100-bills.jpg",
+                    "ssim": 0.199
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "ssim": 0.1597
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "367641-alexfas01.jpg",
+                    "ssim": 0.0611
+                }
+            ]
+        },
+        {
+            "run": 81,
+            "average_ssim": 0.1217,
+            "standard_deviation_over_pairs": 0.0321,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "ssim": 0.1237
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "ssim": 0.1206
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "ssim": 0.1121
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_21.jpg",
+                    "ssim": 0.0547
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100-dollars-banknote-benjamin-franklin-independence-hall-usa-2009-EH3968_1.jpg",
+                    "ssim": 0.1743
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.1097
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12009.jpg",
+                    "ssim": 0.1476
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "ssim": 0.1308
+                }
+            ]
+        },
+        {
+            "run": 82,
+            "average_ssim": 0.1234,
+            "standard_deviation_over_pairs": 0.0381,
+            "pairs": [
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12006_5.jpg",
+                    "ssim": 0.1223
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.0903
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "16x9-dollar_16x9_992.jpg",
+                    "ssim": 0.107
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "ssim": 0.1182
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new-100-us-dollar-banknotes-R7JY8K_1.jpg",
+                    "ssim": 0.1569
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.105
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "ssim": 0.2066
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "100813bill_960x540.jpg",
+                    "ssim": 0.0808
+                }
+            ]
+        },
+        {
+            "run": 83,
+            "average_ssim": 0.1135,
+            "standard_deviation_over_pairs": 0.0109,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "ssim": 0.1161
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600_10.jpg",
+                    "ssim": 0.1112
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12002.jpg",
+                    "ssim": 0.1204
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "2017a-100d-frn-fw-ha-lead.jpg",
+                    "ssim": 0.1143
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1147
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "stsmall845x845-pad1000x1000f8f8f8.jpg",
+                    "ssim": 0.12
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "sddefault2_2.jpg",
+                    "ssim": 0.1247
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_8.jpg",
+                    "ssim": 0.0867
+                }
+            ]
+        },
+        {
+            "run": 84,
+            "average_ssim": 0.1356,
+            "standard_deviation_over_pairs": 0.0341,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "ssim": 0.1468
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "2013-100-dollar-frn-lead.tmb-slide-1900.jpg",
+                    "ssim": 0.1299
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "ssim": 0.2112
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120019.jpg",
+                    "ssim": 0.1311
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "depositphotos_455254120-stock-illustration-new-one-hundred-dollars-bill_2.jpg",
+                    "ssim": 0.1279
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "ssim": 0.0945
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0963
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l12004_7.jpg",
+                    "ssim": 0.1471
+                }
+            ]
+        },
+        {
+            "run": 85,
+            "average_ssim": 0.121,
+            "standard_deviation_over_pairs": 0.0332,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "ssim": 0.1008
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "ssim": 0.1615
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1153
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "ssim": 0.0621
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "new_100_dollar_bill_1024x1024.jpg",
+                    "ssim": 0.1603
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "360_F_63564377_qpTiQOxa4IvA4MgkDnCLamapreLxBBCr.jpg",
+                    "ssim": 0.1029
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120012_1.jpg",
+                    "ssim": 0.1087
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "ssim": 0.1565
+                }
+            ]
+        },
+        {
+            "run": 86,
+            "average_ssim": 0.1153,
+            "standard_deviation_over_pairs": 0.0327,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "ssim": 0.1227
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "ssim": 0.1605
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "ssim": 0.0568
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "ssim": 0.1525
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "660df8209b504.jpg",
+                    "ssim": 0.0963
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.1354
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12005_1.jpg",
+                    "ssim": 0.1121
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "comparison-old-new-dollar-bills-new-old-money-71858945_1.jpg",
+                    "ssim": 0.0862
+                }
+            ]
+        },
+        {
+            "run": 87,
+            "average_ssim": 0.1077,
+            "standard_deviation_over_pairs": 0.0388,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "ssim": 0.0842
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l1600_5.jpg",
+                    "ssim": 0.1066
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1600_21.jpg",
+                    "ssim": 0.0754
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l640_3.jpg",
+                    "ssim": 0.0918
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16002_9.jpg",
+                    "ssim": 0.1203
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "100-banknotes-dollars-money-wallpaper-preview.jpg",
+                    "ssim": 0.203
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.1027
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.0775
+                }
+            ]
+        },
+        {
+            "run": 88,
+            "average_ssim": 0.1395,
+            "standard_deviation_over_pairs": 0.0323,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "9302c0e8f73c99caf43b9fc804070cb2.jpg",
+                    "ssim": 0.113
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "5bb2f6ca8a3a88f6f488e5589699fc912.jpg",
+                    "ssim": 0.1488
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "ssim": 0.1717
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "us-100-dollar-bill-DTH3JX_5.jpg",
+                    "ssim": 0.1144
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011.jpg",
+                    "ssim": 0.202
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "118726723.jpg",
+                    "ssim": 0.1276
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.0966
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "100-bill-front.png",
+                    "ssim": 0.1419
+                }
+            ]
+        },
+        {
+            "run": 89,
+            "average_ssim": 0.1312,
+            "standard_deviation_over_pairs": 0.0308,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "669b85b6f3f69.jpg",
+                    "ssim": 0.0853
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pexels-photo-14820473.jpeg",
+                    "ssim": 0.0992
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "lls-benjamin-franklin-money-concept-photo-rafael-ben-ari-chameleons-38733628.jpg",
+                    "ssim": 0.1308
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "new-one-hundred-dollar-bill-isolated-DRXDCD.jpg",
+                    "ssim": 0.1876
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l16003_8.jpg",
+                    "ssim": 0.1074
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.1499
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "ssim": 0.1413
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "ssim": 0.1481
+                }
+            ]
+        },
+        {
+            "run": 90,
+            "average_ssim": 0.1278,
+            "standard_deviation_over_pairs": 0.0389,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12006_2.jpg",
+                    "ssim": 0.1086
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l1600_14.jpg",
+                    "ssim": 0.105
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.1057
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "ssim": 0.1337
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "diseno-titulo-9jpg_1.jpg",
+                    "ssim": 0.0618
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "c891b9_ab01be7c59ce46f9993099a641dece3cmv2.jpg",
+                    "ssim": 0.1758
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l12008_6.jpg",
+                    "ssim": 0.1895
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1423
+                }
+            ]
+        },
+        {
+            "run": 91,
+            "average_ssim": 0.1095,
+            "standard_deviation_over_pairs": 0.0375,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "ck-for-illustrative-use-only-concept-of-economy-and-american-currency-PCCJ8H_2.jpg",
+                    "ssim": 0.0571
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120010_6.jpg",
+                    "ssim": 0.1066
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "ssim": 0.1043
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "100668977-new-100-dollar-bill-AP.jpg",
+                    "ssim": 0.0703
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "-dollars-bill-banknote-old-american-money-banknote-vintage-retro-usd-2JTJ214.jpg",
+                    "ssim": 0.0988
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "background-of-100-dollar-bills-photo_1.jpg",
+                    "ssim": 0.1156
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "ssim": 0.136
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "bgf8f8f8-flat750x075f-pad750x1000f8f8f8.jpg",
+                    "ssim": 0.1877
+                }
+            ]
+        },
+        {
+            "run": 92,
+            "average_ssim": 0.1421,
+            "standard_deviation_over_pairs": 0.0379,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12002.jpg",
+                    "ssim": 0.1847
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "ssim": 0.1611
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "3ff909093889607ea1da6e3ba35f4f2f.jpg",
+                    "ssim": 0.1727
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "pngtree-new-one-hundred-dollar-bill-united-photo-png-image_13602232.png",
+                    "ssim": 0.1136
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l1200_10.jpg",
+                    "ssim": 0.1018
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "conta-dos-dC3B3lares-americanos-do-novo-cem-fanfarrC3B5es-americano-112980310.jpg",
+                    "ssim": 0.1907
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12007_2.jpg",
+                    "ssim": 0.128
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16003_1.jpg",
+                    "ssim": 0.0842
+                }
+            ]
+        },
+        {
+            "run": 93,
+            "average_ssim": 0.1137,
+            "standard_deviation_over_pairs": 0.0311,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "mp840x830mattef8f8f8t-pad1000x1000f8f8f8.u13.jpg",
+                    "ssim": 0.0486
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16004_9.jpg",
+                    "ssim": 0.1401
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120019.jpg",
+                    "ssim": 0.1393
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16004.jpg",
+                    "ssim": 0.1147
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l120011_5.jpg",
+                    "ssim": 0.1474
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l4003_1.png",
+                    "ssim": 0.1165
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l120012_2.jpg",
+                    "ssim": 0.1207
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "f1280x720-36537_168212_5050_1.jpg",
+                    "ssim": 0.0826
+                }
+            ]
+        },
+        {
+            "run": 94,
+            "average_ssim": 0.1178,
+            "standard_deviation_over_pairs": 0.0363,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "194f124f5eeb77e41cd6d009ffdeec87.jpg",
+                    "ssim": 0.1476
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12002_6.jpg",
+                    "ssim": 0.1386
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "20200730_20200728_131615_2_resized.jpg",
+                    "ssim": 0.1249
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "depositphotos_224123422-stock-photo-pile-one-hundred-banknotes-president.jpg",
+                    "ssim": 0.1473
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l16005_4.jpg",
+                    "ssim": 0.1536
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l120011.jpg",
+                    "ssim": 0.0974
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12009_3.jpg",
+                    "ssim": 0.0921
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "18c5f077d0f3e346a0726955a2a8c531.jpg",
+                    "ssim": 0.0407
+                }
+            ]
+        },
+        {
+            "run": 95,
+            "average_ssim": 0.1086,
+            "standard_deviation_over_pairs": 0.0409,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12008_2.jpg",
+                    "ssim": 0.0855
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l1600vc.jpg",
+                    "ssim": 0.1028
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "281da887beccdead6ec08c193967e9b2.jpg",
+                    "ssim": 0.1162
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12009_5.jpg",
+                    "ssim": 0.0215
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "background-new-u-s-hundred-dollar-bills-put-circula-circulation-october-35406411.jpg",
+                    "ssim": 0.1568
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "one-hundred-dollar-bill-on-euro-background-close-up-view-2AH24RA.jpg",
+                    "ssim": 0.1592
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "ssim": 0.1244
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "5ef7549cdd13aa99baf8075377d6597d.jpg",
+                    "ssim": 0.1025
+                }
+            ]
+        },
+        {
+            "run": 96,
+            "average_ssim": 0.1041,
+            "standard_deviation_over_pairs": 0.0206,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af_1.jpg",
+                    "ssim": 0.1098
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l1600_7.jpg",
+                    "ssim": 0.1317
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l12006_6.jpg",
+                    "ssim": 0.1052
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l12004.jpg",
+                    "ssim": 0.1015
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l16003_10.jpg",
+                    "ssim": 0.0924
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l16005_1.jpg",
+                    "ssim": 0.1234
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12003_1.jpg",
+                    "ssim": 0.059
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "s-l640_3.jpg",
+                    "ssim": 0.11
+                }
+            ]
+        },
+        {
+            "run": 97,
+            "average_ssim": 0.1138,
+            "standard_deviation_over_pairs": 0.0263,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l12003.jpg",
+                    "ssim": 0.0903
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "ssim": 0.0944
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "il_fullxfull.6049957584_dmvj_1.jpg",
+                    "ssim": 0.1308
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "dollar-new-banknote-bank2.jpg",
+                    "ssim": 0.1206
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "s-l16006.jpg",
+                    "ssim": 0.1566
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "100668977-new-100-dollar-bill-AP.jpg",
+                    "ssim": 0.0749
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "one-hundred-dollars-new-banknotes-are-in-denominations-of-100-dollar-HGPG8C.jpg",
+                    "ssim": 0.1413
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "ssim": 0.1015
+                }
+            ]
+        },
+        {
+            "run": 98,
+            "average_ssim": 0.1078,
+            "standard_deviation_over_pairs": 0.0338,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "171f214daa6980a6acff3ab5106bd311.jpg",
+                    "ssim": 0.1076
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "ssim": 0.1165
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "2010_04_new100-1.jpg",
+                    "ssim": 0.0599
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l1600_21.jpg",
+                    "ssim": 0.0547
+                },
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "s-l16007.jpg",
+                    "ssim": 0.1477
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "ssim": 0.1015
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "pt5hm6.jpg",
+                    "ssim": 0.1547
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12004.jpg",
+                    "ssim": 0.1195
+                }
+            ]
+        },
+        {
+            "run": 99,
+            "average_ssim": 0.1375,
+            "standard_deviation_over_pairs": 0.0363,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "100813bill_1280x720_1.jpg",
+                    "ssim": 0.1615
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l12003_4.jpg",
+                    "ssim": 0.1342
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "20200613_100bill.jpg",
+                    "ssim": 0.135
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "nouveau-billet-de-100-dollars-des-etats-unis-dpa994.jpg",
+                    "ssim": 0.0905
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "1934-100-bill_1.jpg",
+                    "ssim": 0.1413
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l12007_5.jpg",
+                    "ssim": 0.1377
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-l640vc.jpg",
+                    "ssim": 0.0891
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "88d0fb2c767689e0b955bd32df1788af.jpg",
+                    "ssim": 0.2109
+                }
+            ]
+        },
+        {
+            "run": 100,
+            "average_ssim": 0.1132,
+            "standard_deviation_over_pairs": 0.0377,
+            "pairs": [
+                {
+                    "generated_image": "Upscale_00001_.png",
+                    "real_image": "pngtree-macro-shot-of-100-bill-on-pure-photo-png-image_13435065.png",
+                    "ssim": 0.0934
+                },
+                {
+                    "generated_image": "Upscale_00002_.png",
+                    "real_image": "ept-template-dollar-bills-white-background-isolated-business-money-134865438_2.jpg",
+                    "ssim": 0.106
+                },
+                {
+                    "generated_image": "Upscale_00006_.png",
+                    "real_image": "s-2017-with-the-portrait-of-president-benjamin-franklin-american-mon-2RDC8JE.jpg",
+                    "ssim": 0.0429
+                },
+                {
+                    "generated_image": "Upscale_00004_.png",
+                    "real_image": "s-l120011_7.jpg",
+                    "ssim": 0.1486
+                },
+                {
+                    "generated_image": "Upscale_00005_.png",
+                    "real_image": "new_100_dollar_bill_770x500.jpg",
+                    "ssim": 0.1605
+                },
+                {
+                    "generated_image": "Upscale_00003_.png",
+                    "real_image": "s-l16007_1.jpg",
+                    "ssim": 0.1018
+                },
+                {
+                    "generated_image": "VeryGoodExample.png",
+                    "real_image": "1000_F_61745683_Yi417R6pjWvbI7JVL7nlpYqa8FW0Qmzo.jpg",
+                    "ssim": 0.1579
+                },
+                {
+                    "generated_image": "Upscale_00008_.png",
+                    "real_image": "s-l1600_9.jpg",
+                    "ssim": 0.0944
+                }
+            ]
+        }
+    ]
+}
