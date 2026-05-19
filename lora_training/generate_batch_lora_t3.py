@@ -15,7 +15,7 @@ NUM_IMAGES = 200
 START_SEED = 1
 PROMPT_TEXT = "A perfect, flawless US 100 dollar banknote, front side, centered, flat lay on white surface. Every letter perfectly legible, every number correctly printed, symmetrical layout, museum-quality reproduction photograph, 8K resolution"
 OUTPUT_PREFIX = "Lora-trening3-batch"
-LORA_NAME = "my_zimage_a100_v1_000001800.safetensors"
+LORA_NAME = "my_zimage_a100_v1_000002000.safetensors"
 LORA_STRENGTH = 1.0
 # ---------------------
 
