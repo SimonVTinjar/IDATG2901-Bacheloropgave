@@ -75,11 +75,9 @@ notasjon på bilder som lora treningen vår brukte
 ---
 
 
-### `lora_dataset/`
+### `lora_training/`
 
-Denne mappen inneholde kode for:
-
-av lora-trening og datasett
+Inneholder skript brukt til datasettforberedelse, bildegenerering og annotasjon i forbindelse med LoRA-finjustering av Z-Image og Z-Image-Turbo. Se egen `README.md` i mappen for detaljert beskrivelse av hvert skript.
 
 ---
 
