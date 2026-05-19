@@ -30,7 +30,9 @@ Inneholder bilder av 100-dollar-sedler som brukes i prosjektet.
 Denne mappen inneholde koder for:
 
 
-testing, skalering og grafer
+Skalering - forskjellige operasjoner å transformere bilder på, som rotasjon, skalering eller bakgrunnskutt.
+Tests - De forskjellige testene for PSNR, SSIN, LPIPS og FID. Også resultatjsons og pdfer.
+Inneholder også mapper med grafer.
 
 ---
 
