@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3YAv0Qyi26P7w7UqlRKU">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-6" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" target="n7tXAW5cVQGvSV0Z38lH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-3" parent="1" style="shape=card;whiteSpace=wrap;html=1;" value="Template" vertex="1">
+          <mxGeometry height="100" width="80" x="254" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-7" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" target="n7tXAW5cVQGvSV0Z38lH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-4" parent="1" style="shape=card;whiteSpace=wrap;html=1;" value="Orginal&lt;div&gt;bilde&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="80" x="494" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-12" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="n7tXAW5cVQGvSV0Z38lH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="make_crop_from_diff.py&lt;br&gt;sammenligner original + template" vertex="1">
+          <mxGeometry height="90" width="160" x="334" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-17" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;curved=1;" target="n7tXAW5cVQGvSV0Z38lH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-18" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;" target="n7tXAW5cVQGvSV0Z38lH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="sort_missing_crops_ui.py&lt;div&gt;manuell sortering/ labeling&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="334" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-13" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n7tXAW5cVQGvSV0Z38lH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dataset/&amp;nbsp;&lt;div&gt;første crops&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-20" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;" target="n7tXAW5cVQGvSV0Z38lH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dataset _missing_type/ sortert crop per klasse" vertex="1">
+          <mxGeometry height="60" width="150" x="220" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-22" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" target="n7tXAW5cVQGvSV0Z38lH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="metadata.json&lt;br&gt;label + bbox + image_size + crop_path" vertex="1">
+          <mxGeometry height="60" width="150" x="459" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-23" edge="1" parent="1" source="n7tXAW5cVQGvSV0Z38lH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="n7tXAW5cVQGvSV0Z38lH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="train_type_with_position.py&lt;div&gt;trener ResNet18 + posisjon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="334" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="n7tXAW5cVQGvSV0Z38lH-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="box_type_position_&lt;div&gt;mising_classifier_v3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
