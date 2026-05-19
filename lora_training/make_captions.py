@@ -1,7 +1,7 @@
 import os
 
 # === CONFIG ===
-IMAGE_FOLDER = r"C:\Users\benja\Desktop\BachelorOppgaveRepo\IDATG2901-Bacheloropgave\DatasettKopi"  # <-- CHANGE THIS
+IMAGE_FOLDER = r"C:\Users\benja\Desktop\BachelorOppgaveRepo\IDATG2901-Bacheloropgave\DatasettKopi" 
 TRIGGER = "[trigger]"
 BASE_CAPTION = "ultra detailed banknote texture, 100 usd dollar bill, sharp focus, macro photo"
 

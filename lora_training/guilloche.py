@@ -5,7 +5,7 @@ def guilloche_rosette(
     R=1.0, r=0.28, d=0.75,  # klassisk spirograph parametre
     n=20000
 ):
-    t = np.linspace(0, 2*np.pi*50, n)  # mange runder gir tett mønster
+    t = np.linspace(0, 2*np.pi*50, n)  
     x = (R - r) * np.cos(t) + d * np.cos(((R - r) / r) * t)
     y = (R - r) * np.sin(t) - d * np.sin(((R - r) / r) * t)
     return x, y

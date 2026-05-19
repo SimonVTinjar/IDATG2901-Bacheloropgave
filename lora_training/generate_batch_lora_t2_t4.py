@@ -15,7 +15,7 @@ START_SEED = 1
 # PROMPT_TEXT = "A perfect, flawless US 100 dollar banknote, front side, centered, flat lay on white surface. Every letter perfectly legible, every number correctly printed, symmetrical layout, museum-quality reproduction photograph, 8K resolution"
 PROMPT_TEXT = "A photorealistic 20 Thai Baht banknote, front side, flat lay, sharp focus, high detail, 8K resolution"
 
-# Kjør én av gangen — kommenter ut den du ikke vil bruke
+# Kjør én av gangen
 # LORA_NAME    = "my_second_lora_000000750.safetensors"  # Trening 2 (USD)
 # OUTPUT_PREFIX = "Lora-trening2-batch"
 
