@@ -10,6 +10,17 @@ Prosjektet er gjennomført som en del av bachelorstudiet og benyttes utelukkende
 
 ## Mappeoversikt
 
+---
+
+### `Brukertest_resultater/`
+
+Inneholder rådata fra brukertesten gjennomført i NTNU Colourlabs QuickEval. Mappen består av:
+
+- `Quickeval - resultater.csv` – eksporterte resultater fra QuickEval, inkludert Likert-svar per bilde per deltaker og demografiske svar
+- `Spørreskjema - resultater.csv` – svar fra det påfølgende spørreskjemaet i Google Forms, inkludert fritekstbesvarelser og vanskelighetsgrad
+
+---
+
 ### `datasett copy/`
 
 Inneholder `.txt`-filer som beskriver hvert bilde i datasettet.
