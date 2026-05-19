@@ -1,0 +1,786 @@
+Experiment parameters,,,,
+parameter,value,,,
+title,Seddelgjenkjenning: Brukertest,,,
+experiment type,Category Judgement,,,
+delay between stimuli switching,200ms,,,
+Background colour,#808080,,,
+Stimuli spacing,15px,,,
+Same pair twice (flipped),no,,,
+Show original,no,,,
+,,,,
+Image sets,,,,
+set name,file name,,,
+Upscaled - riktig,Upscale_00001_.png,,,
+Upscaled - riktig,Upscale_00002_.png,,,
+Upscaled - riktig,Upscale_00004_.png,,,
+Upscaled - riktig,Upscale_00008_.png,,,
+Upscaled - riktig,VeryGoodExample.png,,,
+Z-Image Turbo - riktig,New-dataset_batch_00323_.png,,,
+Z-Image Turbo - riktig,Prompt-&-parameter-testing_00021_.png,,,
+Z-Image Turbo - riktig,Prompt-&-parameter-testing_00024_.png,,,
+Z-Image Turbo - riktig,Prompt-&-parameter-testing_00025_.png,,,
+Z-Image Turbo - riktig,New-dataset_batch_00173_.png,,,
+LORA - riktig,Lora-test_00001_.png,,,
+LORA - riktig,Lora-test_00002_.png,,,
+LORA - riktig,Lora-test_00003_.png,,,
+LORA - riktig,Lora-test_00004_.png,,,
+LORA - riktig,Lora-test_00005_.png,,,
+ULDM - riktig,generated_49.png,,,
+ULDM - riktig,generated_57.png,,,
+ULDM - riktig,generated_88.png,,,
+ULDM - riktig,generated_140.png,,,
+ULDM - riktig,generated_187.png,,,
+Ekte Sedler - riktig,669b85b6f3f69.png,,,
+Ekte Sedler - riktig,367641-alexfas01.png,,,
+Ekte Sedler - riktig,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,,,
+Ekte Sedler - riktig,s-l120012_1.png,,,
+Ekte Sedler - riktig,s-l120016_2.png,,,
+,,,,
+Observers,,,,
+user ID,vision,post evalutation,degree,
+3243,,,,
+3244,,,,
+3245,,,,
+3247,,,,
+3248,,,,
+3250,,,,
+3252,,,,
+3253,,,,
+3254,,,,
+3255,,,,
+3256,,,,
+3257,,,,
+3257,,,,
+3258,,,,
+3261,,,,
+3262,,,,
+3263,,,,
+3264,,,,
+3265,,,,
+3266,,,,
+3267,,,,
+3268,,,,
+3269,,,,
+3270,,,,
+3271,,,,
+3272,,,,
+3274,,,,
+3276,,,,
+3277,,,,
+,,,,
+Stimuli Results,,,,
+observer id,session id,image,selected category,time spent (in seconds)
+3243,8152,Upscale_00004_.png,Helt sikker falsk,7
+3243,8152,New-dataset_batch_00173_.png,Helt sikker falsk,4
+3243,8152,669b85b6f3f69.png,Helt sikker ekte,10
+3243,8152,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,10
+3243,8152,New-dataset_batch_00323_.png,Helt sikker falsk,3
+3243,8152,367641-alexfas01.png,Trolig ekte,16
+3243,8152,Upscale_00008_.png,Helt sikker falsk,3
+3243,8152,Prompt-&-parameter-testing_00024_.png,Helt sikker falsk,2
+3243,8152,Lora-test_00004_.png,Helt sikker falsk,4
+3243,8152,Upscale_00002_.png,Helt sikker falsk,3
+3243,8152,generated_88.png,Helt sikker falsk,4
+3243,8152,Lora-test_00005_.png,Helt sikker falsk,3
+3243,8152,Lora-test_00003_.png,Helt sikker falsk,2
+3243,8152,Upscale_00001_.png,Helt sikker falsk,2
+3243,8152,s-l120012_1.png,Helt sikker falsk,2
+3243,8152,generated_49.png,Helt sikker falsk,5
+3243,8152,generated_140.png,Helt sikker falsk,2
+3243,8152,VeryGoodExample.png,Helt sikker falsk,2
+3243,8152,generated_187.png,Helt sikker falsk,4
+3243,8152,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,4
+3243,8152,generated_57.png,Helt sikker falsk,4
+3243,8152,s-l120016_2.png,Helt sikker ekte,11
+3243,8152,Lora-test_00001_.png,Helt sikker falsk,5
+3243,8152,Lora-test_00002_.png,Helt sikker falsk,2
+3243,8152,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,2
+3245,8154,Prompt-&-parameter-testing_00021_.png,Trolig falsk,9
+3245,8154,Upscale_00002_.png,Helt sikker falsk,4
+3245,8154,generated_57.png,Usikker,7
+3245,8154,Lora-test_00005_.png,Helt sikker falsk,7
+3245,8154,Upscale_00008_.png,Trolig ekte,10
+3245,8154,Prompt-&-parameter-testing_00024_.png,Trolig falsk,6
+3245,8154,s-l120016_2.png,Trolig ekte,10
+3245,8154,VeryGoodExample.png,Usikker,25
+3245,8154,Upscale_00004_.png,Helt sikker falsk,9
+3245,8154,669b85b6f3f69.png,Helt sikker ekte,5
+3245,8154,367641-alexfas01.png,Trolig ekte,4
+3245,8154,Lora-test_00001_.png,Helt sikker falsk,2
+3245,8154,Lora-test_00004_.png,Helt sikker falsk,2
+3245,8154,generated_49.png,Trolig ekte,8
+3245,8154,Lora-test_00003_.png,Helt sikker falsk,5
+3245,8154,generated_140.png,Helt sikker falsk,3
+3245,8154,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,1
+3245,8154,s-l120012_1.png,Trolig ekte,8
+3245,8154,Lora-test_00002_.png,Helt sikker falsk,3
+3245,8154,generated_88.png,Helt sikker falsk,3
+3245,8154,generated_187.png,Helt sikker falsk,3
+3245,8154,New-dataset_batch_00323_.png,Helt sikker falsk,2
+3245,8154,Upscale_00001_.png,Helt sikker falsk,2
+3245,8154,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,6
+3245,8154,New-dataset_batch_00173_.png,Helt sikker falsk,3
+3247,8155,New-dataset_batch_00323_.png,Helt sikker falsk,7
+3247,8155,367641-alexfas01.png,Trolig ekte,8
+3247,8155,generated_187.png,Usikker,4
+3247,8155,s-l120016_2.png,Trolig ekte,4
+3247,8155,Upscale_00008_.png,Trolig falsk,7
+3247,8155,Lora-test_00002_.png,Helt sikker falsk,3
+3247,8155,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,3
+3247,8155,generated_57.png,Trolig falsk,4
+3247,8155,Lora-test_00005_.png,Helt sikker falsk,2
+3247,8155,Lora-test_00001_.png,Helt sikker falsk,2
+3247,8155,Upscale_00004_.png,Helt sikker falsk,2
+3247,8155,669b85b6f3f69.png,Helt sikker ekte,4
+3247,8155,Upscale_00001_.png,Helt sikker falsk,3
+3247,8155,Lora-test_00003_.png,Helt sikker falsk,1
+3247,8155,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,5
+3247,8155,VeryGoodExample.png,Trolig falsk,4
+3247,8155,Prompt-&-parameter-testing_00024_.png,Helt sikker falsk,1
+3247,8155,New-dataset_batch_00173_.png,Helt sikker falsk,1
+3247,8155,s-l120012_1.png,Helt sikker ekte,4
+3247,8155,generated_140.png,Trolig falsk,5
+3247,8155,Upscale_00002_.png,Trolig falsk,9
+3247,8155,generated_49.png,Trolig falsk,4
+3247,8155,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,3
+3247,8155,generated_88.png,Trolig falsk,2
+3247,8155,Lora-test_00004_.png,Helt sikker falsk,2
+3248,8156,s-l120016_2.png,Trolig ekte,33
+3248,8156,New-dataset_batch_00173_.png,Trolig falsk,17
+3248,8156,generated_57.png,Trolig falsk,14
+3248,8156,Upscale_00002_.png,Trolig falsk,6
+3248,8156,Upscale_00008_.png,Trolig ekte,5
+3248,8156,367641-alexfas01.png,Trolig ekte,6
+3248,8156,generated_140.png,Trolig ekte,10
+3248,8156,Lora-test_00004_.png,Trolig falsk,13
+3248,8156,669b85b6f3f69.png,Trolig ekte,13
+3248,8156,Prompt-&-parameter-testing_00021_.png,Trolig falsk,4
+3248,8156,Upscale_00001_.png,Trolig falsk,9
+3248,8156,s-l120012_1.png,Trolig ekte,8
+3248,8156,Prompt-&-parameter-testing_00025_.png,Trolig falsk,6
+3248,8156,Lora-test_00001_.png,Trolig falsk,7
+3248,8156,Lora-test_00003_.png,Trolig falsk,151
+3248,8156,New-dataset_batch_00323_.png,Trolig falsk,9
+3248,8156,Lora-test_00002_.png,Trolig falsk,18
+3248,8156,generated_88.png,Trolig falsk,13
+3248,8156,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig falsk,26
+3248,8156,VeryGoodExample.png,Trolig ekte,24
+3248,8156,Prompt-&-parameter-testing_00024_.png,Trolig falsk,19
+3248,8156,generated_187.png,Trolig ekte,18
+3248,8156,Upscale_00004_.png,Trolig ekte,10
+3248,8156,Lora-test_00005_.png,Trolig falsk,12
+3248,8156,generated_49.png,Trolig ekte,9
+3250,8157,Prompt-&-parameter-testing_00021_.png,Trolig falsk,11
+3250,8157,Upscale_00002_.png,Trolig falsk,7
+3250,8157,generated_88.png,Trolig ekte,6
+3250,8157,Upscale_00008_.png,Trolig falsk,3
+3250,8157,Lora-test_00002_.png,Trolig falsk,2
+3250,8157,generated_140.png,Trolig ekte,3
+3250,8157,New-dataset_batch_00323_.png,Trolig falsk,2
+3250,8157,Lora-test_00003_.png,Trolig falsk,2
+3250,8157,s-l120016_2.png,Trolig ekte,3
+3250,8157,Lora-test_00004_.png,Trolig falsk,3
+3250,8157,generated_49.png,Usikker,3
+3250,8157,Upscale_00001_.png,Trolig ekte,7
+3250,8157,s-l120012_1.png,Trolig ekte,3
+3250,8157,Lora-test_00005_.png,Trolig falsk,2
+3250,8157,367641-alexfas01.png,Trolig ekte,3
+3250,8157,Prompt-&-parameter-testing_00024_.png,Trolig falsk,4
+3250,8157,Prompt-&-parameter-testing_00025_.png,Trolig falsk,2
+3250,8157,generated_57.png,Trolig falsk,12
+3250,8157,New-dataset_batch_00173_.png,Trolig falsk,9
+3250,8157,669b85b6f3f69.png,Trolig ekte,4
+3250,8157,Upscale_00004_.png,Trolig ekte,14
+3250,8157,Lora-test_00001_.png,Trolig falsk,8
+3250,8157,generated_187.png,Trolig falsk,2
+3250,8157,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,3
+3250,8157,VeryGoodExample.png,Trolig falsk,2
+3252,8158,VeryGoodExample.png,Trolig ekte,10
+3252,8158,generated_140.png,Trolig falsk,12
+3252,8158,Upscale_00008_.png,Trolig ekte,5
+3252,8158,Upscale_00004_.png,Trolig ekte,3
+3252,8158,s-l120016_2.png,Trolig ekte,4
+3252,8158,Prompt-&-parameter-testing_00025_.png,Trolig ekte,3
+3252,8158,generated_88.png,Trolig falsk,13
+3252,8158,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,6
+3252,8158,Prompt-&-parameter-testing_00024_.png,Trolig ekte,6
+3252,8158,669b85b6f3f69.png,Helt sikker ekte,5
+3252,8158,Lora-test_00005_.png,Helt sikker falsk,3
+3252,8158,Lora-test_00003_.png,Helt sikker falsk,3
+3252,8158,New-dataset_batch_00323_.png,Helt sikker falsk,3
+3252,8158,generated_187.png,Helt sikker falsk,3
+3252,8158,s-l120012_1.png,Helt sikker ekte,10
+3252,8158,generated_57.png,Helt sikker falsk,2
+3252,8158,Upscale_00002_.png,Helt sikker falsk,4
+3252,8158,New-dataset_batch_00173_.png,Helt sikker falsk,2
+3252,8158,367641-alexfas01.png,Helt sikker ekte,4
+3252,8158,Lora-test_00002_.png,Helt sikker falsk,2
+3252,8158,Lora-test_00004_.png,Helt sikker falsk,3
+3252,8158,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,2
+3252,8158,generated_49.png,Helt sikker falsk,2
+3252,8158,Upscale_00001_.png,Helt sikker falsk,5
+3252,8158,Lora-test_00001_.png,Helt sikker falsk,3
+3253,8159,Prompt-&-parameter-testing_00025_.png,Trolig falsk,22
+3253,8159,Upscale_00004_.png,Trolig ekte,18
+3253,8159,669b85b6f3f69.png,Helt sikker ekte,18
+3253,8159,VeryGoodExample.png,Trolig falsk,17
+3253,8159,Lora-test_00005_.png,Helt sikker falsk,16
+3253,8159,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,16
+3253,8159,New-dataset_batch_00173_.png,Trolig falsk,17
+3253,8159,s-l120016_2.png,Helt sikker ekte,16
+3253,8159,generated_187.png,Trolig ekte,19
+3253,8159,generated_140.png,Usikker,18
+3253,8159,generated_49.png,Usikker,20
+3253,8159,Lora-test_00002_.png,Helt sikker falsk,16
+3253,8159,Upscale_00002_.png,Trolig falsk,13
+3253,8159,generated_88.png,Usikker,17
+3253,8159,Upscale_00008_.png,Trolig ekte,18
+3253,8159,New-dataset_batch_00323_.png,Usikker,17
+3253,8159,generated_57.png,Trolig falsk,16
+3253,8159,Lora-test_00004_.png,Helt sikker falsk,8
+3253,8159,Upscale_00001_.png,Trolig falsk,16
+3253,8159,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,16
+3253,8159,367641-alexfas01.png,Helt sikker ekte,9
+3253,8159,s-l120012_1.png,Helt sikker ekte,10
+3253,8159,Prompt-&-parameter-testing_00024_.png,Trolig falsk,13
+3253,8159,Lora-test_00003_.png,Helt sikker falsk,5
+3253,8159,Lora-test_00001_.png,Helt sikker falsk,7
+3254,8162,Lora-test_00002_.png,Trolig falsk,31
+3254,8162,367641-alexfas01.png,Trolig ekte,20
+3254,8162,s-l120016_2.png,Helt sikker ekte,12
+3254,8162,New-dataset_batch_00323_.png,Helt sikker falsk,13
+3254,8162,generated_187.png,Helt sikker ekte,6
+3254,8162,s-l120012_1.png,Usikker,14
+3254,8162,generated_140.png,Trolig ekte,7
+3254,8162,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,15
+3254,8162,669b85b6f3f69.png,Trolig ekte,14
+3254,8162,generated_49.png,Helt sikker falsk,5
+3254,8162,Lora-test_00003_.png,Helt sikker falsk,5
+3254,8162,Upscale_00002_.png,Helt sikker falsk,10
+3254,8162,Upscale_00008_.png,Helt sikker falsk,7
+3254,8162,generated_57.png,Helt sikker falsk,4
+3254,8162,generated_88.png,Helt sikker falsk,3
+3254,8162,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,17
+3254,8162,Lora-test_00005_.png,Helt sikker falsk,6
+3254,8162,Upscale_00004_.png,Trolig ekte,7
+3254,8162,Prompt-&-parameter-testing_00024_.png,Helt sikker falsk,3
+3254,8162,VeryGoodExample.png,Trolig ekte,5
+3254,8162,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,6
+3254,8162,Upscale_00001_.png,Trolig ekte,6
+3254,8162,Lora-test_00001_.png,Helt sikker falsk,3
+3254,8162,New-dataset_batch_00173_.png,Helt sikker falsk,2
+3254,8162,Lora-test_00004_.png,Helt sikker falsk,3
+3255,8163,generated_57.png,Helt sikker falsk,23
+3255,8163,Upscale_00008_.png,Helt sikker falsk,7
+3255,8163,Upscale_00001_.png,Trolig falsk,14
+3255,8163,Lora-test_00003_.png,Trolig falsk,4
+3255,8163,generated_88.png,Helt sikker falsk,6
+3255,8163,Prompt-&-parameter-testing_00024_.png,Trolig ekte,11
+3255,8163,Lora-test_00001_.png,Trolig ekte,8
+3255,8163,VeryGoodExample.png,Usikker,18
+3255,8163,669b85b6f3f69.png,Trolig ekte,7
+3255,8163,Upscale_00004_.png,Trolig falsk,6
+3255,8163,Lora-test_00002_.png,Helt sikker falsk,3
+3255,8163,generated_187.png,Helt sikker falsk,2
+3255,8163,New-dataset_batch_00323_.png,Trolig falsk,7
+3255,8163,Prompt-&-parameter-testing_00021_.png,Trolig falsk,4
+3255,8163,Upscale_00002_.png,Trolig falsk,3
+3255,8163,generated_49.png,Helt sikker falsk,3
+3255,8163,New-dataset_batch_00173_.png,Helt sikker falsk,3
+3255,8163,Lora-test_00005_.png,Trolig falsk,13
+3255,8163,s-l120016_2.png,Trolig ekte,12
+3255,8163,s-l120012_1.png,Trolig ekte,9
+3255,8163,generated_140.png,Helt sikker falsk,3
+3255,8163,367641-alexfas01.png,Trolig ekte,10
+3255,8163,Lora-test_00004_.png,Helt sikker falsk,4
+3255,8163,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,4
+3255,8163,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,11
+3256,8164,Lora-test_00001_.png,Trolig falsk,15
+3256,8164,s-l120012_1.png,Usikker,8
+3256,8164,generated_88.png,Trolig falsk,17
+3256,8164,669b85b6f3f69.png,Trolig ekte,9
+3256,8164,s-l120016_2.png,Usikker,9
+3256,8164,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,5
+3256,8164,367641-alexfas01.png,Trolig ekte,10
+3256,8164,New-dataset_batch_00323_.png,Helt sikker falsk,4
+3256,8164,generated_49.png,Helt sikker falsk,9
+3256,8164,Upscale_00002_.png,Helt sikker falsk,9
+3256,8164,Lora-test_00005_.png,Usikker,12
+3256,8164,Upscale_00008_.png,Helt sikker falsk,15
+3256,8164,Upscale_00004_.png,Helt sikker falsk,15
+3256,8164,generated_140.png,Trolig falsk,19
+3256,8164,New-dataset_batch_00173_.png,Helt sikker falsk,6
+3256,8164,Lora-test_00002_.png,Trolig falsk,16
+3256,8164,Prompt-&-parameter-testing_00024_.png,Usikker,21
+3256,8164,Upscale_00001_.png,Helt sikker falsk,10
+3256,8164,generated_187.png,Usikker,18
+3256,8164,VeryGoodExample.png,Helt sikker falsk,8
+3256,8164,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,7
+3256,8164,Lora-test_00004_.png,Helt sikker falsk,8
+3256,8164,Lora-test_00003_.png,Helt sikker falsk,10
+3256,8164,generated_57.png,Usikker,9
+3256,8164,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,17
+3258,8167,Lora-test_00002_.png,Helt sikker falsk,12
+3258,8167,New-dataset_batch_00323_.png,Trolig falsk,31
+3258,8167,Lora-test_00005_.png,Trolig falsk,22
+3258,8167,Lora-test_00001_.png,Trolig falsk,21
+3258,8167,Prompt-&-parameter-testing_00025_.png,Trolig falsk,13
+3258,8167,Upscale_00001_.png,Trolig ekte,9
+3258,8167,generated_49.png,Helt sikker falsk,11
+3258,8167,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,19
+3258,8167,Upscale_00002_.png,Trolig ekte,17
+3258,8167,Prompt-&-parameter-testing_00021_.png,Trolig falsk,9
+3258,8167,Prompt-&-parameter-testing_00024_.png,Trolig falsk,5
+3258,8167,generated_88.png,Helt sikker falsk,6
+3258,8167,Upscale_00004_.png,Trolig ekte,20
+3258,8167,669b85b6f3f69.png,Trolig ekte,21
+3258,8167,s-l120012_1.png,Trolig ekte,18
+3258,8167,Lora-test_00003_.png,Helt sikker falsk,10
+3258,8167,VeryGoodExample.png,Trolig falsk,18
+3258,8167,s-l120016_2.png,Trolig ekte,21
+3258,8167,367641-alexfas01.png,Trolig ekte,17
+3258,8167,Lora-test_00004_.png,Helt sikker falsk,7
+3258,8167,generated_187.png,Helt sikker falsk,7
+3258,8167,Upscale_00008_.png,Helt sikker falsk,11
+3258,8167,generated_140.png,Helt sikker falsk,4
+3258,8167,New-dataset_batch_00173_.png,Helt sikker falsk,4
+3258,8167,generated_57.png,Helt sikker falsk,4
+3261,8168,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,18
+3261,8168,Lora-test_00001_.png,Helt sikker falsk,9
+3261,8168,Upscale_00002_.png,Helt sikker falsk,11
+3261,8168,generated_140.png,Helt sikker falsk,4
+3261,8168,generated_49.png,Helt sikker falsk,4
+3261,8168,generated_88.png,Helt sikker falsk,4
+3261,8168,VeryGoodExample.png,Trolig falsk,16
+3261,8168,s-l120016_2.png,Helt sikker ekte,15
+3261,8168,Prompt-&-parameter-testing_00024_.png,Helt sikker falsk,3
+3261,8168,s-l120012_1.png,Helt sikker ekte,16
+3261,8168,New-dataset_batch_00173_.png,Helt sikker falsk,4
+3261,8168,generated_187.png,Helt sikker falsk,3
+3261,8168,Upscale_00004_.png,Helt sikker falsk,7
+3261,8168,Upscale_00001_.png,Helt sikker falsk,5
+3261,8168,Lora-test_00004_.png,Helt sikker falsk,3
+3261,8168,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,3
+3261,8168,Lora-test_00003_.png,Helt sikker falsk,3
+3261,8168,Lora-test_00005_.png,Helt sikker falsk,2
+3261,8168,669b85b6f3f69.png,Helt sikker falsk,2
+3261,8168,New-dataset_batch_00323_.png,Helt sikker falsk,6
+3261,8168,Upscale_00008_.png,Helt sikker falsk,4
+3261,8168,367641-alexfas01.png,Helt sikker ekte,12
+3261,8168,Lora-test_00002_.png,Helt sikker falsk,6
+3261,8168,generated_57.png,Helt sikker falsk,3
+3261,8168,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,7
+3263,8170,generated_187.png,Trolig ekte,10
+3263,8170,VeryGoodExample.png,Trolig falsk,12
+3263,8170,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,5
+3263,8170,Upscale_00002_.png,Trolig ekte,5
+3263,8170,generated_49.png,Usikker,5
+3263,8170,s-l120016_2.png,Helt sikker ekte,7
+3263,8170,Lora-test_00004_.png,Helt sikker falsk,8
+3263,8170,669b85b6f3f69.png,Trolig ekte,9
+3263,8170,367641-alexfas01.png,Usikker,7
+3263,8170,generated_88.png,Helt sikker falsk,3
+3263,8170,Upscale_00001_.png,Trolig falsk,9
+3263,8170,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,6
+3263,8170,generated_57.png,Trolig falsk,6
+3263,8170,New-dataset_batch_00173_.png,Trolig falsk,7
+3263,8170,Lora-test_00002_.png,Helt sikker falsk,7
+3263,8170,Upscale_00004_.png,Usikker,10
+3263,8170,New-dataset_batch_00323_.png,Helt sikker falsk,8
+3263,8170,Lora-test_00001_.png,Helt sikker falsk,6
+3263,8170,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,9
+3263,8170,Upscale_00008_.png,Trolig falsk,7
+3263,8170,Prompt-&-parameter-testing_00024_.png,Trolig falsk,11
+3263,8170,Lora-test_00003_.png,Helt sikker falsk,3
+3263,8170,s-l120012_1.png,Trolig ekte,4
+3263,8170,generated_140.png,Helt sikker falsk,7
+3263,8170,Lora-test_00005_.png,Trolig falsk,5
+3264,8171,Upscale_00001_.png,Trolig ekte,17
+3264,8171,generated_140.png,Helt sikker falsk,8
+3264,8171,669b85b6f3f69.png,Trolig ekte,8
+3264,8171,generated_57.png,Trolig falsk,3
+3264,8171,s-l120012_1.png,Trolig falsk,13
+3264,8171,generated_49.png,Helt sikker falsk,5
+3264,8171,Lora-test_00001_.png,Helt sikker falsk,4
+3264,8171,New-dataset_batch_00323_.png,Helt sikker falsk,5
+3264,8171,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig falsk,5
+3264,8171,Upscale_00008_.png,Usikker,7
+3264,8171,New-dataset_batch_00173_.png,Trolig falsk,3
+3264,8171,Lora-test_00004_.png,Trolig falsk,6
+3264,8171,Lora-test_00003_.png,Trolig falsk,8
+3264,8171,VeryGoodExample.png,Trolig ekte,4
+3264,8171,s-l120016_2.png,Trolig ekte,5
+3264,8171,Lora-test_00002_.png,Trolig falsk,3
+3264,8171,Prompt-&-parameter-testing_00025_.png,Trolig falsk,3
+3264,8171,Upscale_00002_.png,Usikker,4
+3264,8171,367641-alexfas01.png,Usikker,9
+3264,8171,Prompt-&-parameter-testing_00021_.png,Trolig falsk,6
+3264,8171,generated_187.png,Usikker,8
+3264,8171,Prompt-&-parameter-testing_00024_.png,Trolig falsk,5
+3264,8171,Upscale_00004_.png,Trolig ekte,5
+3264,8171,generated_88.png,Trolig falsk,4
+3264,8171,Lora-test_00005_.png,Trolig falsk,6
+3265,8172,generated_49.png,Trolig falsk,10
+3265,8172,Lora-test_00001_.png,Trolig ekte,7
+3265,8172,Lora-test_00003_.png,Trolig falsk,4
+3265,8172,s-l120016_2.png,Helt sikker ekte,4
+3265,8172,Upscale_00008_.png,Trolig falsk,10
+3265,8172,New-dataset_batch_00323_.png,Helt sikker falsk,3
+3265,8172,VeryGoodExample.png,Helt sikker falsk,8
+3265,8172,generated_88.png,Usikker,4
+3265,8172,Upscale_00001_.png,Trolig ekte,11
+3265,8172,New-dataset_batch_00173_.png,Usikker,4
+3265,8172,Prompt-&-parameter-testing_00024_.png,Usikker,7
+3265,8172,Prompt-&-parameter-testing_00021_.png,Trolig falsk,5
+3265,8172,Upscale_00004_.png,Trolig ekte,16
+3265,8172,Lora-test_00004_.png,Usikker,18
+3265,8172,669b85b6f3f69.png,Trolig ekte,6
+3265,8172,generated_140.png,Trolig falsk,6
+3265,8172,367641-alexfas01.png,Helt sikker ekte,10
+3265,8172,generated_57.png,Usikker,4
+3266,8173,Upscale_00001_.png,Trolig falsk,36
+3266,8173,Upscale_00004_.png,Usikker,38
+3266,8173,367641-alexfas01.png,Usikker,34
+3266,8173,generated_140.png,Trolig falsk,22
+3266,8173,New-dataset_batch_00173_.png,Trolig falsk,25
+3266,8173,generated_88.png,Trolig ekte,245
+3266,8173,s-l120016_2.png,Trolig ekte,21
+3266,8173,Prompt-&-parameter-testing_00024_.png,Trolig falsk,21
+3266,8173,generated_49.png,Trolig ekte,18
+3266,8173,s-l120012_1.png,Trolig falsk,22
+3266,8173,VeryGoodExample.png,Helt sikker falsk,21
+3266,8173,Upscale_00008_.png,Helt sikker falsk,19
+3266,8173,Lora-test_00003_.png,Helt sikker falsk,18
+3266,8173,Lora-test_00005_.png,Helt sikker falsk,22
+3266,8173,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,16
+3266,8173,New-dataset_batch_00323_.png,Helt sikker falsk,11
+3266,8173,generated_187.png,Helt sikker falsk,19
+3266,8173,Upscale_00002_.png,Helt sikker falsk,10
+3266,8173,generated_57.png,Helt sikker falsk,15
+3266,8173,Lora-test_00004_.png,Usikker,24
+3266,8173,Lora-test_00001_.png,Usikker,26
+3266,8173,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,17
+3266,8173,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,18
+3266,8173,Lora-test_00002_.png,Helt sikker falsk,17
+3266,8173,669b85b6f3f69.png,Trolig ekte,15
+3267,8174,generated_187.png,Trolig falsk,19
+3267,8174,Lora-test_00001_.png,Helt sikker falsk,17
+3267,8174,generated_57.png,Trolig falsk,16
+3267,8174,generated_88.png,Usikker,6
+3267,8174,Lora-test_00004_.png,Helt sikker falsk,8
+3267,8174,Lora-test_00002_.png,Helt sikker falsk,5
+3267,8174,Upscale_00008_.png,Helt sikker ekte,8
+3267,8174,Prompt-&-parameter-testing_00025_.png,Usikker,19
+3267,8174,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,6
+3267,8174,New-dataset_batch_00323_.png,Helt sikker falsk,4
+3267,8174,VeryGoodExample.png,Trolig falsk,13
+3267,8174,generated_49.png,Trolig falsk,11
+3267,8174,Prompt-&-parameter-testing_00024_.png,Trolig falsk,62
+3267,8174,s-l120016_2.png,Helt sikker ekte,10
+3267,8174,Upscale_00001_.png,Helt sikker falsk,11
+3267,8174,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,8
+3267,8174,New-dataset_batch_00173_.png,Helt sikker falsk,3
+3267,8174,s-l120012_1.png,Usikker,17
+3267,8174,Lora-test_00005_.png,Helt sikker falsk,11
+3267,8174,367641-alexfas01.png,Helt sikker ekte,8
+3267,8174,Upscale_00004_.png,Helt sikker falsk,12
+3267,8174,generated_140.png,Trolig falsk,13
+3267,8174,Lora-test_00003_.png,Helt sikker falsk,5
+3267,8174,Upscale_00002_.png,Trolig falsk,3
+3267,8174,669b85b6f3f69.png,Trolig ekte,4
+3268,8175,s-l120012_1.png,Trolig ekte,18
+3268,8175,generated_187.png,Helt sikker falsk,8
+3268,8175,Lora-test_00003_.png,Helt sikker falsk,13
+3268,8175,Prompt-&-parameter-testing_00024_.png,Trolig falsk,10
+3268,8175,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,10
+3268,8175,New-dataset_batch_00173_.png,Trolig falsk,12
+3268,8175,generated_140.png,Helt sikker falsk,3
+3268,8175,Lora-test_00004_.png,Helt sikker falsk,4
+3268,8175,New-dataset_batch_00323_.png,Trolig falsk,5
+3268,8175,generated_88.png,Helt sikker falsk,2
+3268,8175,Lora-test_00001_.png,Trolig falsk,2
+3268,8175,Upscale_00004_.png,Trolig falsk,8
+3268,8175,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,7
+3268,8175,generated_49.png,Helt sikker falsk,8
+3268,8175,Upscale_00002_.png,Trolig falsk,5
+3268,8175,Prompt-&-parameter-testing_00025_.png,Trolig falsk,4
+3268,8175,669b85b6f3f69.png,Trolig ekte,6
+3268,8175,Upscale_00001_.png,Trolig falsk,10
+3268,8175,VeryGoodExample.png,Trolig falsk,4
+3268,8175,Lora-test_00005_.png,Helt sikker falsk,2
+3268,8175,Lora-test_00002_.png,Trolig falsk,3
+3268,8175,367641-alexfas01.png,Trolig ekte,5
+3268,8175,generated_57.png,Helt sikker falsk,3
+3268,8175,s-l120016_2.png,Trolig ekte,6
+3268,8175,Upscale_00008_.png,Helt sikker falsk,2
+3269,8176,New-dataset_batch_00323_.png,Helt sikker falsk,18
+3269,8176,Lora-test_00005_.png,Trolig falsk,18
+3269,8176,Lora-test_00004_.png,Helt sikker falsk,17
+3269,8176,generated_88.png,Helt sikker falsk,13
+3269,8176,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,20
+3269,8176,Upscale_00008_.png,Helt sikker falsk,10
+3269,8176,s-l120016_2.png,Usikker,20
+3269,8176,Upscale_00004_.png,Helt sikker falsk,7
+3269,8176,Upscale_00001_.png,Helt sikker falsk,8
+3269,8176,Prompt-&-parameter-testing_00024_.png,Helt sikker falsk,8
+3269,8176,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,8
+3269,8176,generated_187.png,Helt sikker falsk,7
+3269,8176,s-l120012_1.png,Trolig ekte,20
+3269,8176,Lora-test_00002_.png,Helt sikker falsk,7
+3269,8176,generated_140.png,Helt sikker falsk,8
+3269,8176,Lora-test_00003_.png,Helt sikker falsk,6
+3269,8176,Lora-test_00001_.png,Helt sikker falsk,4
+3269,8176,VeryGoodExample.png,Helt sikker falsk,3
+3269,8176,Upscale_00002_.png,Helt sikker falsk,2
+3269,8176,669b85b6f3f69.png,Helt sikker falsk,15
+3269,8176,367641-alexfas01.png,Trolig ekte,16
+3269,8176,generated_57.png,Helt sikker falsk,7
+3269,8176,New-dataset_batch_00173_.png,Helt sikker falsk,18
+3269,8176,generated_49.png,Helt sikker falsk,6
+3269,8176,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,8
+3270,8177,generated_187.png,Trolig falsk,19
+3270,8177,New-dataset_batch_00173_.png,Usikker,24
+3270,8177,generated_49.png,Helt sikker falsk,21
+3270,8177,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,17
+3270,8177,generated_88.png,Helt sikker falsk,13
+3270,8177,Lora-test_00005_.png,Helt sikker falsk,12
+3270,8177,Upscale_00008_.png,Helt sikker falsk,12
+3270,8177,Upscale_00004_.png,Helt sikker falsk,14
+3270,8177,Prompt-&-parameter-testing_00024_.png,Trolig falsk,20
+3270,8177,s-l120016_2.png,Helt sikker ekte,17
+3270,8177,Upscale_00002_.png,Helt sikker falsk,7
+3270,8177,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,9
+3270,8177,VeryGoodExample.png,Helt sikker falsk,6
+3270,8177,Lora-test_00001_.png,Helt sikker falsk,7
+3270,8177,Lora-test_00004_.png,Helt sikker falsk,7
+3270,8177,generated_57.png,Helt sikker falsk,8
+3270,8177,669b85b6f3f69.png,Trolig ekte,18
+3270,8177,Lora-test_00002_.png,Helt sikker falsk,5
+3270,8177,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,5
+3270,8177,Lora-test_00003_.png,Helt sikker falsk,5
+3270,8177,New-dataset_batch_00323_.png,Helt sikker falsk,6
+3270,8177,s-l120012_1.png,Trolig ekte,19
+3270,8177,Upscale_00001_.png,Helt sikker falsk,7
+3270,8177,367641-alexfas01.png,Trolig ekte,13
+3270,8177,generated_140.png,Helt sikker falsk,8
+3271,8178,generated_88.png,Trolig falsk,27
+3271,8178,Lora-test_00002_.png,Helt sikker falsk,17
+3271,8178,generated_140.png,Trolig falsk,28
+3271,8178,669b85b6f3f69.png,Trolig ekte,20
+3271,8178,generated_57.png,Helt sikker falsk,9
+3271,8178,367641-alexfas01.png,Helt sikker ekte,28
+3271,8178,Prompt-&-parameter-testing_00021_.png,Trolig falsk,17
+3271,8178,New-dataset_batch_00323_.png,Helt sikker ekte,20
+3271,8178,Lora-test_00001_.png,Trolig falsk,17
+3271,8178,s-l120016_2.png,Helt sikker falsk,19
+3271,8178,Lora-test_00005_.png,Trolig falsk,8
+3271,8178,Upscale_00004_.png,Trolig ekte,16
+3271,8178,Upscale_00002_.png,Trolig ekte,15
+3271,8178,Prompt-&-parameter-testing_00024_.png,Trolig falsk,7
+3271,8178,Lora-test_00003_.png,Helt sikker falsk,4
+3271,8178,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,12
+3271,8178,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,16
+3271,8178,Lora-test_00004_.png,Trolig falsk,10
+3271,8178,generated_49.png,Helt sikker falsk,13
+3271,8178,Upscale_00001_.png,Usikker,16
+3271,8178,s-l120012_1.png,Trolig ekte,15
+3271,8178,Upscale_00008_.png,Usikker,16
+3271,8178,generated_187.png,Helt sikker falsk,7
+3271,8178,VeryGoodExample.png,Trolig ekte,10
+3271,8178,New-dataset_batch_00173_.png,Trolig ekte,17
+3272,8179,Lora-test_00005_.png,Trolig falsk,14
+3272,8179,generated_140.png,Trolig falsk,14
+3272,8179,generated_88.png,Trolig falsk,32
+3272,8179,Upscale_00008_.png,Trolig ekte,17
+3272,8179,669b85b6f3f69.png,Helt sikker ekte,7
+3272,8179,Upscale_00004_.png,Usikker,9
+3272,8179,Lora-test_00002_.png,Trolig falsk,6
+3272,8179,s-l120012_1.png,Helt sikker ekte,8
+3272,8179,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,11
+3272,8179,generated_57.png,Trolig falsk,6
+3272,8179,New-dataset_batch_00323_.png,Trolig falsk,6
+3272,8179,367641-alexfas01.png,Helt sikker ekte,8
+3272,8179,New-dataset_batch_00173_.png,Helt sikker falsk,5
+3272,8179,VeryGoodExample.png,Helt sikker falsk,6
+3272,8179,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,9
+3272,8179,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,9
+3272,8179,Upscale_00001_.png,Helt sikker falsk,10
+3272,8179,generated_49.png,Helt sikker falsk,4
+3272,8179,Upscale_00002_.png,Helt sikker falsk,8
+3272,8179,Prompt-&-parameter-testing_00024_.png,Helt sikker falsk,11
+3272,8179,s-l120016_2.png,Trolig ekte,11
+3272,8179,Lora-test_00004_.png,Helt sikker falsk,4
+3272,8179,generated_187.png,Helt sikker falsk,4
+3272,8179,Lora-test_00003_.png,Helt sikker falsk,3
+3272,8179,Lora-test_00001_.png,Helt sikker falsk,5
+3274,8180,New-dataset_batch_00323_.png,Helt sikker falsk,20
+3274,8180,Upscale_00008_.png,Trolig ekte,10
+3274,8180,New-dataset_batch_00173_.png,Usikker,11
+3274,8180,Lora-test_00003_.png,Usikker,26
+3274,8180,generated_49.png,Trolig ekte,10
+3274,8180,Lora-test_00005_.png,Helt sikker falsk,10
+3274,8180,Lora-test_00004_.png,Trolig ekte,10
+3274,8180,VeryGoodExample.png,Helt sikker ekte,4
+3274,8180,Lora-test_00001_.png,Trolig ekte,5
+3274,8180,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,3
+3274,8180,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,2
+3274,8180,s-l120016_2.png,Trolig falsk,3
+3274,8180,367641-alexfas01.png,Trolig ekte,4
+3274,8180,Prompt-&-parameter-testing_00024_.png,Trolig falsk,1905
+3274,8180,Lora-test_00002_.png,Helt sikker falsk,3
+3274,8180,Upscale_00004_.png,Helt sikker falsk,2
+3274,8180,Upscale_00001_.png,Trolig ekte,3
+3274,8180,generated_140.png,Trolig falsk,3
+3274,8180,669b85b6f3f69.png,Helt sikker ekte,3
+3274,8180,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Trolig ekte,2
+3274,8180,generated_187.png,Helt sikker falsk,2
+3274,8180,s-l120012_1.png,Usikker,2
+3274,8180,generated_88.png,Usikker,2
+3274,8180,generated_57.png,Trolig falsk,2
+3274,8180,Upscale_00002_.png,Helt sikker falsk,3
+3276,8184,Lora-test_00003_.png,Helt sikker falsk,22
+3276,8184,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,14
+3276,8184,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,13
+3276,8184,Lora-test_00001_.png,Usikker,18
+3276,8184,s-l120016_2.png,Helt sikker ekte,14
+3276,8184,Lora-test_00005_.png,Trolig falsk,16
+3276,8184,Upscale_00004_.png,Trolig falsk,15
+3276,8184,Lora-test_00004_.png,Helt sikker falsk,7
+3276,8184,generated_57.png,Helt sikker falsk,5
+3276,8184,Upscale_00008_.png,Helt sikker falsk,12
+3276,8184,Lora-test_00002_.png,Helt sikker falsk,7
+3276,8184,Upscale_00002_.png,Trolig falsk,15
+3276,8184,generated_140.png,Helt sikker falsk,8
+3276,8184,367641-alexfas01.png,Helt sikker ekte,7
+3276,8184,Prompt-&-parameter-testing_00021_.png,Helt sikker falsk,9
+3276,8184,Prompt-&-parameter-testing_00024_.png,Trolig falsk,9
+3276,8184,generated_187.png,Helt sikker falsk,3
+3276,8184,Upscale_00001_.png,Helt sikker falsk,6
+3276,8184,VeryGoodExample.png,Helt sikker falsk,5
+3276,8184,s-l120012_1.png,Trolig ekte,9
+3276,8184,generated_88.png,Helt sikker falsk,2
+3276,8184,New-dataset_batch_00323_.png,Helt sikker falsk,6
+3276,8184,generated_49.png,Helt sikker falsk,2
+3276,8184,New-dataset_batch_00173_.png,Helt sikker falsk,6
+3276,8184,669b85b6f3f69.png,Helt sikker ekte,9
+3277,8185,367641-alexfas01.png,Trolig falsk,11
+3277,8185,Upscale_00008_.png,Usikker,6
+3277,8185,generated_187.png,Helt sikker falsk,7
+3277,8185,Lora-test_00003_.png,Trolig ekte,11
+3277,8185,Prompt-&-parameter-testing_00021_.png,Trolig ekte,8
+3277,8185,Upscale_00002_.png,Trolig falsk,4
+3277,8185,New-dataset_batch_00323_.png,Usikker,4
+3277,8185,Lora-test_00004_.png,Trolig falsk,6
+3277,8185,s-l120012_1.png,Trolig ekte,4
+3277,8185,generated_49.png,Helt sikker falsk,4
+3277,8185,Lora-test_00002_.png,Helt sikker falsk,15
+3277,8185,Prompt-&-parameter-testing_00024_.png,Helt sikker falsk,12
+3277,8185,VeryGoodExample.png,Helt sikker falsk,4
+3277,8185,generated_88.png,Helt sikker falsk,3
+3277,8185,Upscale_00001_.png,Helt sikker falsk,9
+3277,8185,one-hundred-dollar-bill-on-a-black-plate-front-view-financial-concept-photo2_1.png,Helt sikker ekte,5
+3277,8185,669b85b6f3f69.png,Helt sikker ekte,5
+3277,8185,generated_140.png,Helt sikker falsk,3
+3277,8185,generated_57.png,Helt sikker falsk,2
+3277,8185,Lora-test_00001_.png,Helt sikker falsk,2
+3277,8185,s-l120016_2.png,Helt sikker ekte,4
+3277,8185,New-dataset_batch_00173_.png,Helt sikker falsk,3
+3277,8185,Upscale_00004_.png,Helt sikker falsk,2
+3277,8185,Prompt-&-parameter-testing_00025_.png,Helt sikker falsk,3
+3277,8185,Lora-test_00005_.png,Helt sikker falsk,2
+,,,,
+Inputs meta data,,,,
+id,input title,,,
+2894,Erfaring med AI-genererte bilder?,,,
+2895,Kjønn,,,
+2896,Alder,,,
+,,,,
+Inputs results,,,,
+observer,input title,answer,,
+3243,Erfaring med AI-genererte bilder?,Lite,,
+3243,Kjønn,Mann,,
+3243,Alder,24,,
+3244,Erfaring med AI-genererte bilder?,,,
+3244,Kjønn,,,
+3244,Alder,,,
+3245,Erfaring med AI-genererte bilder?,En god del,,
+3245,Kjønn,Apache helikopter,,
+3245,Alder,-100,,
+3247,Erfaring med AI-genererte bilder?,Nada,,
+3247,Kjønn,Voksen gutt,,
+3247,Alder,22,,
+3248,Erfaring med AI-genererte bilder?,Ja,,
+3248,Kjønn,kvinne,,
+3248,Alder,24,,
+3250,Erfaring med AI-genererte bilder?,Nei,,
+3250,Kjønn,Mann,,
+3250,Alder,22,,
+3252,Erfaring med AI-genererte bilder?,Noe,,
+3252,Kjønn,Jente,,
+3252,Alder,22,,
+3253,Erfaring med AI-genererte bilder?,Har lekt litt med å generere bilder i chatgpt.,,
+3253,Kjønn,Mann,,
+3253,Alder,23,,
+3254,Erfaring med AI-genererte bilder?,god,,
+3254,Kjønn,mann,,
+3254,Alder,21,,
+3255,Erfaring med AI-genererte bilder?,,,
+3255,Kjønn,,,
+3255,Alder,,,
+3256,Erfaring med AI-genererte bilder?,Bare litt testing på privaten.,,
+3256,Kjønn,Mann,,
+3256,Alder,33,,
+3257,Erfaring med AI-genererte bilder?,Lite,,
+3257,Kjønn,Kvinne,,
+3257,Alder,25,,
+3257,Erfaring med AI-genererte bilder?,Lite,,
+3257,Kjønn,Kvinne,,
+3257,Alder,25,,
+3258,Erfaring med AI-genererte bilder?,Har sett generativt AI bli brukt i både uprofesjonelt og profesjonell sammenheng,,
+3258,Kjønn,Kvinne,,
+3258,Alder,31,,
+3261,Erfaring med AI-genererte bilder?,helt ok, 6/10,,
+3261,Kjønn,mann,,
+3261,Alder,22,,
+3262,Erfaring med AI-genererte bilder?,,,
+3262,Kjønn,,,
+3262,Alder,,,
+3263,Erfaring med AI-genererte bilder?,Veldig lite,,
+3263,Kjønn,Mann,,
+3263,Alder,24,,
+3264,Erfaring med AI-genererte bilder?,Noe,,
+3264,Kjønn,Kvinne,,
+3264,Alder,23,,
+3265,Erfaring med AI-genererte bilder?,God,,
+3265,Kjønn,Kvinne,,
+3265,Alder,23,,
+3266,Erfaring med AI-genererte bilder?,Lite,,
+3266,Kjønn,Mann,,
+3266,Alder,60,,
+3267,Erfaring med AI-genererte bilder?,Ingen,,
+3267,Kjønn,Mann,,
+3267,Alder,18,,
+3268,Erfaring med AI-genererte bilder?,Høy erfaring,,
+3268,Kjønn,Mann,,
+3268,Alder,24,,
+3269,Erfaring med AI-genererte bilder?,Tja litt, har sett noen hender som er kokt, og den berømte will smith spaghetti videoen og noen sora showcases,,
+3269,Kjønn,Mannlig mann,,
+3269,Alder,25,,
+3270,Erfaring med AI-genererte bilder?,Noe men ikke mye,,
+3270,Kjønn,Kvinne,,
+3270,Alder,52,,
+3271,Erfaring med AI-genererte bilder?,Noe erfaring,,
+3271,Kjønn,Mann,,
+3271,Alder,54,,
+3272,Erfaring med AI-genererte bilder?,Lekte rundt når det først var en ting (DALL-E), har ikke selv generet mye siden men er ofte kritisk og greier å spotte AI genererte bilder når de tydlig viser tegn til det.,,
+3272,Kjønn,Mann,,
+3272,Alder,22,,
+3274,Erfaring med AI-genererte bilder?,Ja jeg ai generer bilder av vennene mine hele tiden, bruket chatgpt for å generere bildene,,
+3274,Kjønn,Mann,,
+3274,Alder,22,,
+3276,Erfaring med AI-genererte bilder?,Generert en god del bilder i alt fra interiør til GUI for systemutvikling,,
+3276,Kjønn,Mann,,
+3276,Alder,27,,
+3277,Erfaring med AI-genererte bilder?,Ja,,
+3277,Kjønn,Mann,,
+3277,Alder,34,,
