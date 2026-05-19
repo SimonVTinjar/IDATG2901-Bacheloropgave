@@ -27,10 +27,10 @@ Inneholder bilder av 100-dollar-sedler som brukes i prosjektet.
 ### `Kode/`
 
 
-Denne mappen inneholde kode for:
+Denne mappen inneholde koder for:
 
 
-testing og evaluering
+testing, skalering og grafer
 
 ---
 
