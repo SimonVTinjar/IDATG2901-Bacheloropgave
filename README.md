@@ -53,10 +53,33 @@ Programmene ble brukt til å:
 - splitte datasettet inn i ulike mapper
 
 ---
+### `draw.io/`
+
+Denne mappen inneholde diagramer som har blit laget for å ha i raporten raporten
+
+
+---
 
 ### `image overlay/`
 
 Inneholder `.txt`-filer som ble brukt under LoRA-trening sammen med bildene i `datasett/`.
+
+---
+
+### `lora_dataset/`
+
+Denne mappen inneholde filer for:
+
+notasjon på bilder som lora treningen vår brukte
+
+---
+
+
+### `lora_dataset/`
+
+Denne mappen inneholde kode for:
+
+av lora-trening og datasett
 
 ---
 
