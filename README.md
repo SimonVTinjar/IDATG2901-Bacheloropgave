@@ -16,11 +16,6 @@ Inneholder `.txt`-filer som beskriver hvert bilde i datasettet.
 
 Hver `.txt`-fil har samme filnavn som bildet den tilhører.
 
----
-
-### `datasett/`
-
-Inneholder bilder av 100-dollar-sedler som brukes i prosjektet.
 
 ---
 
@@ -81,13 +76,7 @@ notasjon på bilder som lora treningen vår brukte
 
 Inneholder skript brukt til datasettforberedelse, bildegenerering og annotasjon i forbindelse med LoRA-finjustering av Z-Image og Z-Image-Turbo. Se egen `README.md` i mappen for detaljert beskrivelse av hvert skript.
 
----
 
-### `thai 20 front/`
-
-Inneholder bilder av thailandske 20 baht-sedler.
-
-Hvert bilde har en tilhørende `.txt`-fil med samme filnavn. Tekstfilen beskriver bildet den hører til.
 ---
 
 
